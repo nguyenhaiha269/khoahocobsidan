@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/video-2023/finished-video/file-noi-dung/bai-01-cai-dat/"}
+{"dg-publish":true,"permalink":"/video-2023/finished-video/file-noi-dung/bai-01-cai-dat/","noteIcon":""}
 ---
 
 # 1️⃣  Hướng dẫn cài đặt trên window
