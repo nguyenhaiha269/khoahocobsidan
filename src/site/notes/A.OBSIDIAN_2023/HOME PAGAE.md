@@ -7,27 +7,20 @@
 > LUYỆN MÃI THÀNH TÀI, MIỆT MÀI TẤT GIỎI 
 
 
-```ad-note
-title:☘️ Part 1
-icon: Cloud
-color: 178,22,164
-- [[Bài 01 Cài đặt]]
-- [[Bài 2 Giới thiệu các thanh công cụ và cài đặt cơ bản]]
-- [[Bài 3 Hướng dẫn tạo homepage, banner và tạo một note đầu tiên]]
-- [[Bài 5 Liên kết]]
-- [[Bài 6 LIÊN KẾT VÀ ATTACHMENTS]]
-- [[BÀI 7- DAILY NOTE VÀ TEMPLATE]]
-- [[BÀI 8 TAG]]
-```
 
-```ad-note
-title: part2
-icon: star
-color: 178,220,164
-- [[PHẦN 2 NÂNG CAO]]
+- [[Video_2023/Finished Video/FILE NỘI DUNG/Bài 01 Cài đặt\|Bài 01 Cài đặt]]
+- [[Video_2023/Finished Video/FILE NỘI DUNG/Bài 2 Giới thiệu các thanh công cụ và cài đặt cơ bản\|Bài 2 Giới thiệu các thanh công cụ và cài đặt cơ bản]]
+- [[Video_2023/Finished Video/FILE NỘI DUNG/Bài 3 Hướng dẫn tạo homepage, banner và tạo một note đầu tiên\|Bài 3 Hướng dẫn tạo homepage, banner và tạo một note đầu tiên]]
+- [[Video_2023/Finished Video/FILE NỘI DUNG/Bài 5 Liên kết\|Bài 5 Liên kết]]
+- [[A.OBSIDIAN_2023/Bài 6 LIÊN KẾT VÀ ATTACHMENTS\|Bài 6 LIÊN KẾT VÀ ATTACHMENTS]]
+- [[Video_2023/Finished Video/FILE NỘI DUNG/BÀI 7- DAILY NOTE VÀ TEMPLATE\|BÀI 7- DAILY NOTE VÀ TEMPLATE]]
+- [[Video_2023/Finished Video/FILE NỘI DUNG/BÀI 8 TAG\|BÀI 8 TAG]]
+
+
+- [[A.OBSIDIAN_2023/PHẦN 2 NÂNG CAO\|PHẦN 2 NÂNG CAO]]
 - [[Canvas/Ý Tưởng.canvas|Ý Tưởng]]
 - [[Những điều canvas có thể làm.canvas|Những điều canvas có thể làm]]
-```
+
 
 
 
