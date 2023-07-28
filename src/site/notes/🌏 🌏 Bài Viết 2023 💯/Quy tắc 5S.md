@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bai-viet-2023/quy-tac-5-s/"}
+{"dg-publish":true,"permalink":"/bai-viet-2023/quy-tac-5-s/","noteIcon":""}
 ---
 
 
