@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/a-obsidian-2023/home-pagae/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/a-obsidian-2023/home-pagae/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
-<div class="title" style="color:Sienna">NGUYỄN HẢI HÀ</div>
+<div class="title" style="color:Sienna">🌟🌟🌟HỌC OBSIDIAN🌟🌟🌟 </div>
 
-> LUYỆN MÃI THÀNH TÀI, MIỆT MÀI TẤT GIỎI 
+<center> 🌟HỌC OBSIDIAN 🌟</center>
 
-
+> LUYỆN MÃI THÀNH TÀI, MIỆT MÀI TẤT GIỎI
 
 - [[Video_2023/Finished Video/FILE NỘI DUNG/Bài 01 Cài đặt\|Bài 01 Cài đặt]]
 - [[Video_2023/Finished Video/FILE NỘI DUNG/Bài 2 Giới thiệu các thanh công cụ và cài đặt cơ bản\|Bài 2 Giới thiệu các thanh công cụ và cài đặt cơ bản]]
