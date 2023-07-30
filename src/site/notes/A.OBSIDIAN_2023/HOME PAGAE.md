@@ -3,8 +3,8 @@
 ---
 
 
-# <center> 📝 **HỌC OBSIDIAN **</center>
-##### <center> Nơi Học và chia sẻ về Obsidian cho người mới</center>
+# <center> 📝 HỌC OBSIDIAN </center>
+##### <center> Hướng dẫn và chia sẻ về Obsidian</center>
 
 ##### <center> 🌟🌟🌟🌟🌟🌟</center>
 
