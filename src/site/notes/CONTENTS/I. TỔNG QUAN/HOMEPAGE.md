@@ -18,11 +18,10 @@ I.3 [[Sưu tầm các ví dụ và hình ảnh minh họa các dự án trên ob
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 **Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
 
-II.1 [[Nội Dung Khóa học Obsidian Cơ Bản\|Nội Dung Khóa học Obsidian Cơ Bản]]
-II.2 [[Nội Dung khóa học Obsidian nâng cao\|Nội Dung khóa học Obsidian nâng cao]]
+II.1 [[Danh sách bài học  Obsidian Cơ Bản\|Danh sách bài học  Obsidian Cơ Bản]]
+II.2 [[Danh sách bài học Obsidian nâng cao\|Danh sách bài học Obsidian nâng cao]]
 
-
-
+Đăng ký khóa học tại đây:  [<img src="https://i.imgur.com/nmienVo.png" width="100">](https://www.facebook.com/hahtd3)
 
 
 
