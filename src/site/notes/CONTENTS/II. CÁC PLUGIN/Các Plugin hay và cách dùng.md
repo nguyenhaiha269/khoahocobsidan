@@ -15,19 +15,29 @@ Cùng mình xem xét từng phần nhé
 - Templates
 - Word cound
 - Workspace
-- ###  🌟COMMUNITY PLUGIN 
+###  🌟COMMUNITY PLUGIN 
 Sau đây là danh sách các Community Plugin cơ bản nhất mà chúng ta có thể quan tâm:
 - Calendar
 - Editing toolbar
 - Emoj toolbar
 - Dataview
 - Admotion
+- Homepage
+- Advaced tables
+- Table generator
+- canvas mindmap
 #### Hình ảnh, âm thanh
 - Image inserter
-- Imgur 
+- Imgur plugin
 - Gallery
 - Banner
 #### Âm thanh
 - Audio Player
 - PodNotes
 - Podcast Note
+#### Lập kế hoạch
+- Cardboard
+- Kanvas
+#### Tập trung
+- Focus mode
+- Pomodoro
