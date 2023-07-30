@@ -3,7 +3,13 @@
 ---
 
 
-<center> 🍀🍀🍀🍀HỌC OBSIDIAN 🍀🍀🍀🍀</center>
+# <center>  HỌC OBSIDIAN </center>
+##### <center> Nơi Học và chia sẻ về Obsidian cho người mới</center>
+
+##### <center> 🌟🌟🌟🌟🌟🌟</center>
+
+
+
 
 
 
