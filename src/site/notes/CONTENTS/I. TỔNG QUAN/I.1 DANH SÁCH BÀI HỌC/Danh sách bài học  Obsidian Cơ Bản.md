@@ -4,6 +4,7 @@
 
 # 🌟 Danh Sách bài học cơ bản 🌟 
 
+<div style="display: flex; justify-content: left; cursor: pointer;"> <a href="obsidian://open?vault=Kh%C3%B3a%20h%E1%BB%8Dc%20Obsidian_2023&file=CONTENTS%2FHOME%20PAGE" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
 
 
 > [[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac\|Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac]]
