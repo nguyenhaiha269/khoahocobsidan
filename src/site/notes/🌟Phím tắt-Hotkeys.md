@@ -8,7 +8,9 @@
 >Gõ Ctrl P hoặc mở thanh công cụ command pallete để xem lệnh tắt nếu bị quên
 >Các lệnh tắt giúp ta thao tác nhanh chóng và thuận lợi hơn
 
+### Cách thiết lập phim tắt như sau:
 
+Setting-> Hotkeys -> tìm đến các lệnh hay dùng và gán phím tắt.
 
 ### Các lệnh tăt mình hay dùng:
 
