@@ -3,7 +3,7 @@
 ---
 
 
-<div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
+<div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 10; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
 
 
 >[[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac\|Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac]]
@@ -12,7 +12,7 @@
 
 >[[Bài 3 Bắt đầu với những khái niệm ban đầu\|Bài 3 Bắt đầu với những khái niệm ban đầu]]
 
->[[Bài 4 Thực hành tạo một trang Homepage và các thành phần
+>[[Bài 4 Thực hành tạo một trang Homepage và các thành phần\|Bài 4 Thực hành tạo một trang Homepage và các thành phần]]
 
 >[[Bài 5 Làm đẹp trang Homepage với một số Plugin được giới thiệu\|Bài 5 Làm đẹp trang Homepage với một số Plugin được giới thiệu]]
 
