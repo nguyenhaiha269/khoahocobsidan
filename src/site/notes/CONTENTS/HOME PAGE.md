@@ -27,7 +27,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 1. [Danh sách bài học  Obsidian Cơ Bản]]
 2. [[CONTENTS/I.1 DANH SÁCH BÀI HỌC/Danh sách bài học Obsidian nâng cao\|Danh sách bài học Obsidian nâng cao]]
 
-**Câu hỏi và **
+**Câu hỏi và feedback học viên **
 
 >[[Các câu hỏi của người học để bạn tham khảo\|Các câu hỏi của người học để bạn tham khảo]]
 
