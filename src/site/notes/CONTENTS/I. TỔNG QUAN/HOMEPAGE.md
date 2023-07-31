@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/i-tong-quan/homepage/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/contents/i-tong-quan/homepage/","pinned":true,"tags":["gardenEntry"],"noteIcon":2}
 ---
 
 
