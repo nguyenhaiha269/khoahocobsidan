@@ -25,12 +25,13 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 **Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
 
 1. [Danh sách bài học  Obsidian Cơ Bản]]
-2. [[CONTENTS/I. TỔNG QUAN/I.1 DANH SÁCH BÀI HỌC/Danh sách bài học Obsidian nâng cao\|Danh sách bài học Obsidian nâng cao]]
+2. [[CONTENTS/I.1 DANH SÁCH BÀI HỌC/Danh sách bài học Obsidian nâng cao\|Danh sách bài học Obsidian nâng cao]]
+
+**Câu hỏi và **
 
 >[[Các câu hỏi của người học để bạn tham khảo\|Các câu hỏi của người học để bạn tham khảo]]
 
->[[CONTENTS/Feedback của học viên các khóa\|Feedback của học viên các khóa]]
----
+>[[CONTENTS/III. THAM KHẢO/Feedback của học viên các khóa\|Feedback của học viên các khóa]]
 
 [<img style="float:left" src="https://i.imgur.com/mZgYZhw.png" width="200">](https://forms.gle/WY9mCZpkDueCo66y9)
 
