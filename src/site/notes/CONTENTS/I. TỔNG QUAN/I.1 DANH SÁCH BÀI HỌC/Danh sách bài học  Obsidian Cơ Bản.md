@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/i-tong-quan/i-1-danh-sach-bai-hoc/danh-sach-bai-hoc-obsidian-co-ban/","noteIcon":""}
+{"dg-publish":true,"permalink":"/contents/i-tong-quan/i-1-danh-sach-bai-hoc/danh-sach-bai-hoc-obsidian-co-ban/","noteIcon":"1"}
 ---
 
 # 🌟 Danh Sách bài học cơ bản 🌟 
@@ -11,7 +11,7 @@
 
 > [[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính\|Bài 2  Hướng dẫn làm việc giữa nhiều máy tính]]
 
-> [[Bài 3 Bắt đầu với những khái niệm ban đầu\|Bài 3 Bắt đầu với những khái niệm ban đầu]]
+> [[Bài 3 Tạo Note, folder, đổi theme và cài đặt cơ bản\|Bài 3 Tạo Note, folder, đổi theme và cài đặt cơ bản]]
 
 > [[Bài 4 Thực hành tạo một trang Homepage và các thành phần\|Bài 4 Thực hành tạo một trang Homepage và các thành phần]]
 
@@ -19,9 +19,9 @@
 
 > [[Bài 6 Học về Liên kết và các Attachments\|Bài 6 Học về Liên kết và các Attachments]]
 
-> [[Bài 7 Cách tạo một note theo ngày\|Bài 7 Cách tạo một note theo ngày]]
+> [[Bài 7 Cách tạo một note theo ngày và dùng template\|Bài 7 Cách tạo một note theo ngày và dùng template]]
 
-> [[Bài 8 Cách tạo một file mẫu\|Bài 8 Cách tạo một file mẫu]]
+> [[Bài 8 Vẽ mindmap bằng canvas\|Bài 8 Vẽ mindmap bằng canvas]]
 
 > [[Bài 9 Bài Tags và làm việc với tags\|Bài 9 Bài Tags và làm việc với tags]]
 
