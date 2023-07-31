@@ -15,7 +15,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 **Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
 
 I.1 [[Chia sẻ và tổng hợp các kiến thức liên quan tới Obsidian\|Chia sẻ và tổng hợp các kiến thức liên quan tới Obsidian]]
-I.2 [[CONTENTS/II. Nội Dung/Các Plugin hay và cách dùng\|CÁC PLUGIN]]
+I.2 [[CONTENTS/II. Nội Dung/Các Plugin hay và cách dùng\|Các Plugin hay và cách dùng]]
 I.3 [[CONTENTS/II. Nội Dung/Phím tắt-Hotkeys\|Phím tắt-Hotkeys]]
 I.3 [[Sưu tầm các ví dụ và hình ảnh minh họa các dự án trên obsidian\|Sưu tầm các ví dụ và hình ảnh minh họa các dự án trên obsidian]]
 
