@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/ii-noi-dung/phim-tat-hotkeys/","noteIcon":""}
 ---
 
-#  🔑HOTKEYS - PHÍM TẮT 🔑
+#  🔑HOTKEYS - PHÍM TẮT 
 
 Phím tắt giúp chúng ta nâng cao hiệu suất và cảm thấy thoải mái khi sử dụng.
 Các Phím tắt sẽ được thiết lập theo nhu cầu cá nhân.
