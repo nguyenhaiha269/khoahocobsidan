@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-cac-plugin/cac-plugin-hay-va-cach-dung/"}
 ---
 
-
-
-<div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 100; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
+<div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 10; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
 
 Chúng ta có 2 phần là : ==Core Plugin== và ==Community Plugin==. 
 Cùng mình xem xét từng phần nhé
