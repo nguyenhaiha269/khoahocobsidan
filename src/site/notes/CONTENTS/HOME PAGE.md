@@ -29,6 +29,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 
 >[[Các câu hỏi của người học để b ạn tham khảo\|Các câu hỏi của người học để b ạn tham khảo]]
 
+>[[CONTENTS/Feedback của học viên các khóa\|Feedback của học viên các khóa]]
 ---
 
 [<img style="float:left" src="https://i.imgur.com/mZgYZhw.png" width="200">](https://forms.gle/WY9mCZpkDueCo66y9)
