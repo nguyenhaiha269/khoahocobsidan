@@ -4,7 +4,7 @@
 
 # <center> 💥CÁC PLUGIN </center>
 
-[[CONTENTS/HOME PAGAE\|HOME PAGAE]]
+[[HOME PAGAE\|HOME PAGAE]]
 Chúng ta có 2 phần là : ==Core Plugin== và ==Community Plugin==. 
 Cùng mình xem xét từng phần nhé
 ###  🌟CORE PLUGIN 
