@@ -15,7 +15,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
 
 
->1. [[🌟Link download\|🌟Link download]]
+>1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download\|🌟Link download]]
  
 >2. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 
