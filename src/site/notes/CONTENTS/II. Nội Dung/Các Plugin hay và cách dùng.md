@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/ii-noi-dung/cac-plugin-hay-va-cach-dung/","noteIcon":""}
+{"dg-publish":true,"permalink":"/contents/ii-noi-dung/cac-plugin-hay-va-cach-dung/","noteIcon":"1"}
 ---
 
 # <center> 💥CÁC PLUGIN </center>
