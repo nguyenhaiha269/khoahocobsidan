@@ -19,4 +19,3 @@ Setting-> Hotkeys -> tìm đến các lệnh hay dùng và gán phím tắt.
 - Ctrl I : Chuyển chữ nghiêng
 - Ctrl H : tô màu chữ
 
-🔑
