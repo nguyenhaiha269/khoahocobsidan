@@ -28,7 +28,8 @@ Sau đây là danh sách các Community Plugin cơ bản nhất mà chúng ta c�
 - Homepage
 - Advaced tables
 - Table generator
-- canvas mindmap
+- Canvas mindmap
+- Commander
 
 #### Hình ảnh, âm thanh
 
