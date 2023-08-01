@@ -9,7 +9,7 @@
 
 > Hướng dẫn sử dụng Plugin giữa nhiều vault
 
-> Học từ vựng bằng Space Repeatetion
+>[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 
 > Học từ vựng với Language Leaner
 
@@ -30,3 +30,6 @@
 > Hướng dẫn Thay đổi banner nhanh chóng bằng 1 click
 
 >Sử dụng Dataview dạng Task
+>Sử dụng Dataview dạng list
+>Sử dụng Dataview dạng Table
+
