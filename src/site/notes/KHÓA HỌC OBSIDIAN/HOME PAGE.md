@@ -3,8 +3,7 @@
 ---
 
 
-![pink and white flowers under white sky during daytime|800x80](https://images.unsplash.com/photo-1602615576820-ea14cf3e476a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMnx8Zmxvd2VyfGVufDB8MHx8fDE2OTA4MTAzMTd8MA&ixlib=rb-4.0.3&q=80&w=400)
-
+[<img src="https://images.unsplash.com/photo-1602615576820-ea14cf3e476a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMnx8Zmxvd2VyfGVufDB8MHx8fDE2OTA4MTAzMTd8MA&ixlib=rb-4.0.3&q=80&w=400" width="800" height="150">](https://i.imgur.com/ilHdIvR.png)
 
 
 # <center> 📝  **HỌC OBSIDIAN**   </center>
