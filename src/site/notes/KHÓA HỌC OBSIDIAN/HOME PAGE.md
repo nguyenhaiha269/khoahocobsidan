@@ -16,7 +16,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
 
->1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm]]
+>1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|🌟Link download phần mềm]]
  
 >2. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 
@@ -26,7 +26,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 
 >5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
->6.[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
+>6. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 
 
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
