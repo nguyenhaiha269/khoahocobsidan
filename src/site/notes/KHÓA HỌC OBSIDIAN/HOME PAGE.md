@@ -8,7 +8,7 @@
 
 ##### <center> 🌱🌱🌱🌱🌱🌱🌱🌱</center>
 
-Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="50">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="50">](https://zalo.me/979988473)[<img src="https://i.imgur.com/fHAwMOe.png" width="180" height="40">](https://i.imgur.com/ilHdIvR.png)
+Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="40" height="40">](https://zalo.me/979988473)[<img src="https://i.imgur.com/fHAwMOe.png" width="180" height="40">](https://i.imgur.com/ilHdIvR.png)
 
 ----
 
