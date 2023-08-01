@@ -8,6 +8,8 @@
 
 >[[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac\|Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac]]
 
+>[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin\|Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin]]
+
 >[[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính\|Bài 2  Hướng dẫn làm việc giữa nhiều máy tính]]
 
 >[[Bài 3 Bắt đầu với những khái niệm ban đầu\|Bài 3 Bắt đầu với những khái niệm ban đầu]]
