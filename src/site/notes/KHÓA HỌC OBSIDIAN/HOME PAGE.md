@@ -22,7 +22,9 @@ no errror
 
 >3. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 
->4. [[🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+>4. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+
+>5. [[🌟HƯỚNG DẪN CHIA SẺ FILE VÀ LẤY FILE ĐƯỢC CHIA SẺ Ở OBSIDIAN\|🌟HƯỚNG DẪN CHIA SẺ FILE VÀ LẤY FILE ĐƯỢC CHIA SẺ Ở OBSIDIAN]]
 
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 **II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
