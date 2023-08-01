@@ -3,8 +3,7 @@
 ---
 
 
-[<img src="https://images.unsplash.com/photo-1602615576820-ea14cf3e476a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxMnx8Zmxvd2VyfGVufDB8MHx8fDE2OTA4MTAzMTd8MA&ixlib=rb-4.0.3&q=80&w=400" width="800" height="150">](https://i.imgur.com/ilHdIvR.png)
-
+<img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxiYW5uZXIlMjB0ZWNobm9sb2d5fGVufDB8MHx8fDE2OTA4NzcwNTl8MA&ixlib=rb-4.0.3&q=80&w=400" width="800" height="150">
 
 # <center> 📝  **HỌC OBSIDIAN**   </center>
 ##### <center>Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian</center>
@@ -16,8 +15,6 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 ----
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
-
-no errror
 
 >1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm]]
  
