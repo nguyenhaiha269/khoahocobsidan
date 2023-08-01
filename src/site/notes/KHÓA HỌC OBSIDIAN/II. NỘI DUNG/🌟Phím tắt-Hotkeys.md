@@ -15,6 +15,7 @@ Setting-> Hotkeys -> tìm đến các lệnh hay dùng và gán phím tắt.
 
 Ctrl P để gọi cửa sổ lệnh 
 Ctrl E : chuyển qua lại giữa chế độ chỉnh sửa và view
+ctrl K : Insert Markdown Link
 CtrL B: tô đậm text
 Ctrl I : nghiêng text
 Ctrl H: tô màu text
