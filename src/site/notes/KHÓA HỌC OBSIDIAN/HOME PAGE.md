@@ -21,6 +21,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 
 >3. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 
+>4. [[🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 **II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
