@@ -24,14 +24,14 @@ no errror
 
 >4. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 
->5. [[🌟HƯỚNG DẪN CHIA SẺ FILE VÀ LẤY FILE ĐƯỢC CHIA SẺ Ở OBSIDIAN\|🌟HƯỚNG DẪN CHIA SẺ FILE VÀ LẤY FILE ĐƯỢC CHIA SẺ Ở OBSIDIAN]]
+>5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 **II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
 
->1. [[KHÓA HỌC OBSIDIAN/I.1 DANH SÁCH BÀI HỌC/🌟Danh sách bài học  Obsidian Cơ Bản\|🌟Danh sách bài học  Obsidian Cơ Bản]]
+>1. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/🌟Danh sách bài học  Obsidian Cơ Bản\|🌟Danh sách bài học  Obsidian Cơ Bản]]
 
->2. [[KHÓA HỌC OBSIDIAN/I.1 DANH SÁCH BÀI HỌC/🌟Danh sách bài học Obsidian nâng cao\|🌟Danh sách bài học Obsidian nâng cao]]
+>2. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/🌟Danh sách bài học Obsidian nâng cao\|🌟Danh sách bài học Obsidian nâng cao]]
 
  ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 
