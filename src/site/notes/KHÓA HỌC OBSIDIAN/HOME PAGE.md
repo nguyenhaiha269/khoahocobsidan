@@ -8,7 +8,7 @@
 
 ##### <center> 🌱🌱🌱🌱🌱🌱🌱🌱</center>
 
-Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="20">](https://zalo.me/979988473)
+Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="50">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="50">](https://zalo.me/979988473)
 
 ----
 
@@ -24,7 +24,7 @@ no errror
 
 >4. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 
->5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
+>5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 **II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
@@ -37,7 +37,7 @@ no errror
 
 **III.Tham khảo câu hỏi và feedback của học viên**
 
->[[🌟 Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian\|🌟 Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian]]
+>[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian\|🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian]]
 
 >[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Feedback của học viên\|🌟Feedback của học viên]]
 
