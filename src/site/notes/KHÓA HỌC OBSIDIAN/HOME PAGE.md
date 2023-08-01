@@ -26,12 +26,16 @@ no errror
 
 >5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
+>6.[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
+
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
+
 **II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
 
 >1. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/🌟Danh sách bài học  Obsidian Cơ Bản\|🌟Danh sách bài học  Obsidian Cơ Bản]]
 
 >2. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/🌟Danh sách bài học Obsidian nâng cao\|🌟Danh sách bài học Obsidian nâng cao]]
+
 
  ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 
