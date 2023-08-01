@@ -25,9 +25,9 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="20">](https://ww
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 **II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
 
->1. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/I.1 DANH SÁCH BÀI HỌC/🌟Danh sách bài học  Obsidian Cơ Bản\|🌟Danh sách bài học  Obsidian Cơ Bản]]
+>1. [[KHÓA HỌC OBSIDIAN/I.1 DANH SÁCH BÀI HỌC/🌟Danh sách bài học  Obsidian Cơ Bản\|🌟Danh sách bài học  Obsidian Cơ Bản]]
 
->2. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/I.1 DANH SÁCH BÀI HỌC/🌟Danh sách bài học Obsidian nâng cao\|🌟Danh sách bài học Obsidian nâng cao]]
+>2. [[KHÓA HỌC OBSIDIAN/I.1 DANH SÁCH BÀI HỌC/🌟Danh sách bài học Obsidian nâng cao\|🌟Danh sách bài học Obsidian nâng cao]]
 
  ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 
