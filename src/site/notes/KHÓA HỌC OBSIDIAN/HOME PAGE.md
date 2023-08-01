@@ -16,7 +16,7 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="50">](https://ww
 
 no errror
 
->1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download\|🌟Link download]]
+>1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm]]
  
 >2. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 
