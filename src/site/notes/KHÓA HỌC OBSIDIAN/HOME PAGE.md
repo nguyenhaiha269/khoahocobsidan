@@ -8,7 +8,7 @@
 
 ##### <center> 🌱🌱🌱🌱🌱🌱🌱🌱</center>
 
-Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="50">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="50">](https://zalo.me/979988473)
+Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="50">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="50">](https://zalo.me/979988473)[<img src="https://i.imgur.com/fHAwMOe.png" width="180" height="40">](https://i.imgur.com/ilHdIvR.png)
 
 ----
 
@@ -47,4 +47,4 @@ no errror
 
 
 ------------------
-<div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> ĐĂNG KÝ NGAY </button> </a> </div>
+<div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
