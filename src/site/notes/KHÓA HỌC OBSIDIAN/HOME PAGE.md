@@ -45,7 +45,4 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 >[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian\|🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian]]
 
 >[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Feedback của học viên\|🌟Feedback của học viên]]
-
-
-------------------
-<div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 50px; background: var(--text-accent); font-weight: 600; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
+<div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
