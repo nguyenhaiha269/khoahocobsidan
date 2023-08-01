@@ -20,6 +20,8 @@
 
 >[[Bài 6 Học về Liên kết và các Attachments\|Bài 6 Học về Liên kết và các Attachments]]
 
+>Bổ xung liên kết đến pdf ( updated)
+
 >[[Bài 7 Cách tạo một note theo ngày\|Bài 7 Cách tạo một note theo ngày]]
 
 >[[Bài 8 Cách tạo một file mẫu\|Bài 8 Cách tạo một file mẫu]]
