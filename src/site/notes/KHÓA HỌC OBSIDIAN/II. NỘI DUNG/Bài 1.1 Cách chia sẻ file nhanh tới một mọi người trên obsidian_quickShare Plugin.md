@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/bai-1-1-cach-chia-se-file-nhanh-toi-mot-moi-nguoi-tren-obsidian-quick-share-plugin/"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/bai-1-1-cach-chia-se-file-nhanh-toi-mot-moi-nguoi-tren-obsidian-quick-share-plugin/","noteIcon":"3"}
 ---
 
 
