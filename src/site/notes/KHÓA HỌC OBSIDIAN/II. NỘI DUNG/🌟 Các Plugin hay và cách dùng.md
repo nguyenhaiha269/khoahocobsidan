@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/cac-plugin-hay-va-cach-dung/"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/cac-plugin-hay-va-cach-dung/","noteIcon":"3"}
 ---
 
 <div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 10; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
@@ -14,7 +14,7 @@ Cùng mình xem xét từng phần nhé
 - Daily notes
 - Slash comment
 - Templates
-- Word cound
+- Word count
 - Workspace
 ###  🌟COMMUNITY PLUGIN 
 
@@ -53,3 +53,9 @@ Sau đây là danh sách các Community Plugin cơ bản nhất mà chúng ta c�
 
 - Focus mode
 - Pomodoro
+
+#### Học ngoại ngữ
+
+- Youglish plugin
+- Language Leaner
+- Ytranscript
