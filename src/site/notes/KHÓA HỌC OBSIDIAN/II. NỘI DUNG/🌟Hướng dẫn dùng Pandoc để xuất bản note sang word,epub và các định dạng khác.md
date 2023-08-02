@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/huong-dan-dung-pandoc-de-xuat-ban-note-sang-word-epub-va-cac-dinh-dang-khac/"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/huong-dan-dung-pandoc-de-xuat-ban-note-sang-word-epub-va-cac-dinh-dang-khac/","noteIcon":"3"}
 ---
 
 Bước 1: ở obsidian cài plugin “ Obsidian pandoc”
