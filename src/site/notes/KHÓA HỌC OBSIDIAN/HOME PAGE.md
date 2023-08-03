@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/home-page/","pinned":true,"tags":["gardenEntry"],"noteIcon":2}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/home-page/","pinned":true,"tags":["gardenEntry"]}
 ---
 
 
