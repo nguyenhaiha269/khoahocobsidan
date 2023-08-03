@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/huong-dan-chia-se-file-va-lay-file-duoc-chia-se-o-obsidian/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/huong-dan-chia-se-file-va-lay-file-duoc-chia-se-o-obsidian/"}
 ---
 
 
