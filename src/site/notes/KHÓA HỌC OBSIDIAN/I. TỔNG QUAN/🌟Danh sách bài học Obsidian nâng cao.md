@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/i-tong-quan/danh-sach-bai-hoc-obsidian-nang-cao/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/i-tong-quan/danh-sach-bai-hoc-obsidian-nang-cao/"}
 ---
 
 
