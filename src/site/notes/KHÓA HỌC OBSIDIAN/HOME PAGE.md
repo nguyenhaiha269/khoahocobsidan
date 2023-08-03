@@ -15,11 +15,10 @@
 
 Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="40" height="40">](https://zalo.me/979988473)[<img src="https://i.imgur.com/fHAwMOe.png" width="180" height="40">](https://i.imgur.com/ilHdIvR.png)
 
-<a class="weatherwidget-io" href="https://forecast7.com/en/21d03105d83/hanoi/" data-label_1="HÀ NỘI" data-label_2="WEATHER" data-theme="original" >HÀ NỘI WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
 
+<iframe width="560" height="315" src="https://weatherwidget.io/" ></iframe>
+
+https://weatherwidget.io/
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
 
