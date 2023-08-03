@@ -59,9 +59,6 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 <iframe width="49.5%" height="200" src="https://widgetbox.app/embed/clock/digital/F8gNQ8MVABHmZzPPEQWDqV?flag=true" ></iframe> 
 </div>
 
+<allinone-chat widgetid="10645" class="widgio-widget"></allinone-chat>
 
-|      |      |
-|:-----|:-----|
-|    <iframe width="300" height="300" src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe>  |     <iframe width="300" height="300" src="https://widgetbox.app/embed/clock/digital/F8gNQ8MVABHmZzPPEQWDqV?flag=true" ></iframe>   |
-
-
+|
