@@ -18,7 +18,6 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 
 <iframe width="560" height="315" src="https://weatherwidget.io/" ></iframe>
 
-https://weatherwidget.io/
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
 
