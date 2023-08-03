@@ -15,10 +15,8 @@
 
 Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="40" height="40">](https://zalo.me/979988473)[<img src="https://i.imgur.com/fHAwMOe.png" width="180" height="40">](https://i.imgur.com/ilHdIvR.png)
 
-<iframe width="560" height="315" src="https://weatherwidget.io/" ></iframe>
 
-
-<iframe width="560" height="315" src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe> 
+<iframe width="200" height="200" src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe> 
 
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
