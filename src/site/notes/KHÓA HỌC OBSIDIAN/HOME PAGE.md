@@ -19,6 +19,8 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
+
+<iframe width="560" height="315" src="https://widgetbox.app/embed/clock/digital/ScrCa2bZAYEy3p2z5UqUuh?flag=true" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 https://widgetbox.app/embed/clock/digital/ScrCa2bZAYEy3p2z5UqUuh?flag=true
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
