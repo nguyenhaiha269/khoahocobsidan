@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/phim-tat-hotkeys/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/phim-tat-hotkeys/"}
 ---
 
 
