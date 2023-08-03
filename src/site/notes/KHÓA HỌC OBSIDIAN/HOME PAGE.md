@@ -17,8 +17,9 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/21d03105d83/hanoi/" data-label_1="HÀ NỘI" data-label_2="WEATHER" data-theme="original" >HÀ NỘI WEATHER</a>
 <script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js'); <iframe width="200" height="100" src="https://widgetbox.app/embed/clock/digital/ScrCa2bZAYEy3p2z5UqUuh?flag=true" </iframe>
-</script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js'); 
+<iframe width="200" height="100" rc="https://widgetbox.app/embed/clock/digital/ScrCa2bZAYEy3p2z5UqUuh?flag=true" </iframe>
+
 
 
 
