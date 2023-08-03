@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/hoc-tu-vung-bang-space-repetition/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/hoc-tu-vung-bang-space-repetition/"}
 ---
 
 <iframe width="660" height="500" src="https://www.youtube.com/embed/aBh1oNtRsBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
