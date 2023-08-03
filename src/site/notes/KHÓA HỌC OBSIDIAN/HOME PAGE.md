@@ -5,16 +5,17 @@
 
 <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHxiYW5uZXIlMjB0ZWNobm9sb2d5fGVufDB8MHx8fDE2OTA4NzcwNTl8MA&ixlib=rb-4.0.3&q=80&w=400" width="800" height="150">
 
+
+
+
 # <center> 📝  **HỌC OBSIDIAN**   </center>
 ##### <center>Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian</center>
-<a class="weatherwidget-io" href="https://forecast7.com/en/21d00105d82/hanoi/" data-label_1="HÀ NỘI" data-label_2="WEATHER" data-theme="original" >HÀ NỘI WEATHER</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
+
 ##### <center> 🌱🌱🌱🌱🌱🌱🌱🌱</center>
 
 Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="40" height="40">](https://zalo.me/979988473)[<img src="https://i.imgur.com/fHAwMOe.png" width="180" height="40">](https://i.imgur.com/ilHdIvR.png)
 
+<iframe width="560" height="315" src="https://widgetbox.app/embed/clock/analog/afpJFoef2LwtM5yojW8Hk2?flag=true" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ----
 
 **I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
