@@ -6,11 +6,13 @@
 <div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 10; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
 
 
->[[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac\|Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac]]
+>[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
+>	[Cách chia sẻ note cho mọi người và tải về máy của mình](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
+>	[Link Download extention](https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4)
 
->[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin\|Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin]]
+>[Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
 
->[[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính\|Bài 2  Hướng dẫn làm việc giữa nhiều máy tính]]
+>[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính]()
 
 >[[Bài 3 Bắt đầu với những khái niệm ban đầu\|Bài 3 Bắt đầu với những khái niệm ban đầu]]
 
