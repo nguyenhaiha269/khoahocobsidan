@@ -55,8 +55,8 @@ Liên hệ:  [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">
 <div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
 
 <div>
-<iframe width="49.5%" height="400" src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe> 
-<iframe width="49.5%" height="200" src="https://widgetbox.app/embed/clock/digital/F8gNQ8MVABHmZzPPEQWDqV?flag=true" ></iframe> 
+<iframe width="60%" height="400" src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe> 
+<iframe width="40%" height="400" src="https://widgetbox.app/embed/clock/digital/F8gNQ8MVABHmZzPPEQWDqV?flag=true" ></iframe> 
 </div>
 
 <allinone-chat widgetid="10645" class="widgio-widget"></allinone-chat>
