@@ -20,6 +20,8 @@ color: red
 >💎[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
 >🆓[Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
+
+Lấy file được chia sẻ hoặc lưu website về:
 >🆓[Link Download extention](https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4)
 ```
 
