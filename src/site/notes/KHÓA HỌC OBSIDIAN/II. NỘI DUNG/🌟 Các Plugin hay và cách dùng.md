@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/cac-plugin-hay-va-cach-dung/"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/ii-noi-dung/cac-plugin-hay-va-cach-dung/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 <div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 10; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
