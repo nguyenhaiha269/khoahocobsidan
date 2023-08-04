@@ -7,13 +7,11 @@
 <div style="display: flex; justify-content: left; cursor: pointer;"> <a href="https://khoahocobsidian.com/" target="_blank"> <button style=" font-size: 15px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 10; color: var(--text-on-accent); "> 👈Quay lại Home page </button> </a> </div>
 
 ```ad-info
+icon: cloud
+color: 253,141,20
 🆓  Khu vực chia sẻ miễn phí cho cộng đồng
-💎  Cần truy nhập nhóm để được chia sẻ
+💎  Cần truy nhập nhóm để được chia sẻ,xem thông tin đăng ký ở [[HOME PAGE]]
 ```
-
-> [!NOTE]
-> 🆓  Khu vực chia sẻ miễn phí cho cộng đồng
-> 💎  Cần truy nhập nhóm hướng dẫn,xem thông tin đăng ký ở [[KHÓA HỌC OBSIDIAN/HOME PAGE\|HOME PAGE]]
 
 >[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
