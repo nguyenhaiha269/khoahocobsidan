@@ -8,12 +8,12 @@
 
 ```ad-info
 icon: cloud
-color: 253,141,20
+color: 100,141,20
 🆓  Khu vực chia sẻ miễn phí cho cộng đồng
 💎  Cần truy nhập nhóm để được chia sẻ,xem thông tin đăng ký ở [[HOME PAGE]]
 ```
 
->[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
+>💎[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
 >🆓[Cách chia sẻ note cho mọi người và tải về máy của mình](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
 
