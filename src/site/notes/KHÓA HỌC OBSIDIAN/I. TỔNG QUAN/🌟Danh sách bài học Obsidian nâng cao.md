@@ -29,7 +29,8 @@
 
 > Hướng dẫn Thay đổi banner nhanh chóng bằng 1 click
 
->Sử dụng Dataview dạng Task
+>[Sử dụng Dataview dạng Task](https://www.facebook.com/groups/219067851029823/posts/238619882407953/)
+
 >Sử dụng Dataview dạng list
 >Sử dụng Dataview dạng Table
 
