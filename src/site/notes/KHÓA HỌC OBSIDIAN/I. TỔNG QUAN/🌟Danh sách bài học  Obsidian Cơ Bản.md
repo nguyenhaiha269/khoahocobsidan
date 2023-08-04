@@ -10,18 +10,19 @@
 icon: cloud
 color: 100,141,20
 🆓  Khu vực chia sẻ miễn phí cho cộng đồng
-💎  Cần truy nhập nhóm để được chia sẻ,xem thông tin đăng ký ở [[HOME PAGE]]
+💎  Cần truy nhập nhóm để được chia sẻ,xem thông tin đăng ký ở HOME PAGE
 ```
 
 >💎[Bài 0 Giới thiệu làm quen](https://www.facebook.com/groups/219067851029823/posts/219073131029295/)
->
->[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
->🆓[Cách chia sẻ note cho mọi người và tải về máy của mình](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
-
->🆓[Link Download extention](https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4)
+```ad-quote
+color: red
+>💎[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
 >🆓[Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
+>🆓[Link Download extention](https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4)
+```
+
 
 >💎[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính](https://www.facebook.com/groups/219067851029823/posts/220015034268438/)
 
@@ -31,11 +32,12 @@ color: 100,141,20
 ```ad-summary
 >💎 [Bài 4.1 Thực hành tạo một trang Homepage và các thành phần](https://www.facebook.com/groups/219067851029823/posts/222127097390565/)
 
->💎[⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
+>💎[Bài 4.2 ⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
+
+>💎[Bài 5 Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 ```
 
 
->💎[Bài 5 Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 
 >💎[Bài 6 Học về Liên kết và các Attachments](https://www.facebook.com/groups/219067851029823/posts/223963793873562)
 
