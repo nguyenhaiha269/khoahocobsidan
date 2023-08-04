@@ -31,23 +31,23 @@ color: 100,141,20
 
 >💎[Bài 5 Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 
->💎[[Bài 6 Học về Liên kết và các Attachments\|Bài 6 Học về Liên kết và các Attachments]]
+>💎[Bài 6 Học về Liên kết và các Attachments]
 
 >💎Bổ xung liên kết đến pdf ( updated)
 
->💎[[Bài 7 Cách tạo một note theo ngày\|Bài 7 Cách tạo một note theo ngày]]
+>💎[Bài 7 Cách tạo một note theo ngày]
 
->💎[[Bài 8 Cách tạo một file mẫu\|Bài 8 Cách tạo một file mẫu]]
+>💎[Bài 8 Cách tạo một file mẫu]
 
->💎[[Bài 9 Bài Tags và làm việc với tags\|Bài 9 Bài Tags và làm việc với tags]]
+>💎[Bài 9 Bài Tags và làm việc với tags](https://www.facebook.com/groups/219067851029823/posts/227941730142435/)
 
 >💎[Các Phương Pháp tìm kiếm file](https://www.facebook.com/groups/219067851029823/posts/232932222976719/)
 
 >💎[Bài 10 Hướng dẫn tìm kiếm file cơ bản-no plugin](https://www.facebook.com/groups/219067851029823/posts/227826946820580)
-
+>💎[Chữa bài 10- Một số khó khăn]()
 >💎[Bài 11 Hướng dẫn tìm kiếm file nâng cao]()
 
-[Một số Tip_1](https://www.facebook.com/groups/219067851029823/posts/239179162352025/)
+>💎[Một số Tip_1](https://www.facebook.com/groups/219067851029823/posts/239179162352025/)
 
 
 
