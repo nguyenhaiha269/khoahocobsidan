@@ -12,7 +12,7 @@ color: 253,141,20
 💎  Cần truy nhập nhóm để được chia sẻ,xem thông tin đăng ký ở [[HOME PAGE]]
 ```
 
-> Hướng dẫn sử dụng Plugin giữa nhiều vault
+> 💎 [Hướng dẫn sử dụng Plugin giữa nhiều vault](https://www.facebook.com/groups/219067851029823/posts/223744593895482/)
 
 >💎[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 
@@ -38,3 +38,5 @@ color: 253,141,20
 >💎[Sử dụng Dataview dạng Table]()
 
 >💎[Thêm website và chế độ làm việc tập trung](https://www.facebook.com/groups/219067851029823/posts/236522149284393)
+>[Hướng dẫn tô màu text](https://www.facebook.com/groups/219067851029823/posts/227707163499225/)
+>
