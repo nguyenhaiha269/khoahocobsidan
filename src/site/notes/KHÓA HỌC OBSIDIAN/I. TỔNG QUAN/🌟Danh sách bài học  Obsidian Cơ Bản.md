@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/i-tong-quan/danh-sach-bai-hoc-obsidian-co-ban/"}
+{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/i-tong-quan/danh-sach-bai-hoc-obsidian-co-ban/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 
