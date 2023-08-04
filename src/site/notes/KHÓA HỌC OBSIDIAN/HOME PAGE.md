@@ -54,7 +54,8 @@ Liên hệ:
 
 >[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Feedback của học viên\|🌟Feedback của học viên]]
 <div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
-
+<br>
+<br>
 
 <center> <iframe width="380" height="400" src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe> </center> 
 
