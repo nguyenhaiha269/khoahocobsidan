@@ -29,7 +29,7 @@ color: 100,141,20
 
 >💎[Bài 4.2KHÓA HỌC OBSIDIAN/II. NỘI DUNG/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter|⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
 
->💎[[Bài 5 Làm đẹp trang Homepage với admotion plugin\|Bài 5 Làm đẹp trang Homepage với admotion plugin]]
+>💎[Bài 5 Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 
 >💎[[Bài 6 Học về Liên kết và các Attachments\|Bài 6 Học về Liên kết và các Attachments]]
 
@@ -40,6 +40,8 @@ color: 100,141,20
 >💎[[Bài 8 Cách tạo một file mẫu\|Bài 8 Cách tạo một file mẫu]]
 
 >💎[[Bài 9 Bài Tags và làm việc với tags\|Bài 9 Bài Tags và làm việc với tags]]
+
+>💎[Các Phương Pháp tìm kiếm file](https://www.facebook.com/groups/219067851029823/posts/232932222976719/)
 
 >💎[Bài 10 Hướng dẫn tìm kiếm file cơ bản-no plugin](https://www.facebook.com/groups/219067851029823/posts/227826946820580)
 
