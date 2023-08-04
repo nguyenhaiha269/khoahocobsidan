@@ -39,4 +39,10 @@ color: 253,141,20
 
 >💎[Thêm website và chế độ làm việc tập trung](https://www.facebook.com/groups/219067851029823/posts/236522149284393)
 >[Hướng dẫn tô màu text](https://www.facebook.com/groups/219067851029823/posts/227707163499225/)
->
+
+💎[ Hướng dẫn dùng Excalidraw Plgugin]()
+
+💎[Hướng dẫn dùng Anki Bridge]
+
+💎[Hướng dẫn dùng Flashcard Plugin]
+
