@@ -22,7 +22,7 @@ color: 253,141,20
 
 > 💎[Quản lý todolist và quản lý dự án với CardBoard](https://www.facebook.com/groups/219067851029823/posts/233222509614357/)
 
-> [Lấy transcript youtube](https://www.facebook.com/groups/219067851029823/posts/232158386387436/)
+>  💎[Lấy transcript youtube](https://www.facebook.com/groups/219067851029823/posts/232158386387436/)
 
 > 💎[Takenote file mp3](https://www.facebook.com/groups/219067851029823/posts/233408126262462/)
 
@@ -32,7 +32,7 @@ color: 253,141,20
 
 > 💎[Thêm website vào Obsidian]()
 
->[Sử dụng Dataview dạng Task](https://www.facebook.com/groups/219067851029823/posts/238619882407953/)
+> 💎[Sử dụng Dataview dạng Task](https://www.facebook.com/groups/219067851029823/posts/238619882407953/)
 
 >💎[Sử dụng Dataview dạng list]()
 >💎[Sử dụng Dataview dạng Table]()
