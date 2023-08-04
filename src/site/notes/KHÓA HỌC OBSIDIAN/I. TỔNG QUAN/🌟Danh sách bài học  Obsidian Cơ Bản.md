@@ -55,13 +55,14 @@ Lấy file được chia sẻ hoặc lưu website về:
 
 >💎[Bài 9 Bài Tags và làm việc với tags](https://www.facebook.com/groups/219067851029823/posts/227941730142435/)
 
-
 ```ad-summary
->💎[Các Phương Pháp tìm kiếm file](https://www.facebook.com/groups/219067851029823/posts/232932222976719/)
->💎[Bài 10.1 Hướng dẫn tìm kiếm file cơ bản-no plugin](https://www.facebook.com/groups/219067851029823/posts/227826946820580)
->💎[Bài 10.2 Hướng dẫn tìm kiếm file nâng cao]()
+💎[Các Phương Pháp tìm kiếm file](https://www.facebook.com/groups/219067851029823/posts/232932222976719/)
 
->💎[Chữa bài 10- Một số khó khăn]()
+💎[Bài 10.1 Hướng dẫn tìm kiếm file cơ bản-no plugin](https://www.facebook.com/groups/219067851029823/posts/227826946820580)
+
+💎[Bài 10.2 Hướng dẫn tìm kiếm file nâng cao]()
+
+💎[Chữa bài 10- Một số khó khăn]()
 ```
 
 
