@@ -14,25 +14,23 @@ color: 253,141,20
 
 > Hướng dẫn sử dụng Plugin giữa nhiều vault
 
->🆓[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
+>💎[[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 
 > 💎[Học từ vựng với Language Leaner](https://www.facebook.com/groups/219067851029823/posts/234529566150318/)
+> 
+>💎 [Kết hợp giữa space repetition với Language leaner](https://www.facebook.com/groups/219067851029823/posts/234529566150318/)
 
-> 💎Quản lý todolist và quản lý dự án với CardBoard
+> 💎[Quản lý todolist và quản lý dự án với CardBoard](https://www.facebook.com/groups/219067851029823/posts/233222509614357/)
 
-> Lấy transcript youtube
+> [Lấy transcript youtube](https://www.facebook.com/groups/219067851029823/posts/232158386387436/)
 
 > 💎[Takenote file mp3](https://www.facebook.com/groups/219067851029823/posts/233408126262462/)
 
-> Tạo bảng và sử dụng bảng trong Obsidian
-
-> Sử dụng plugin Admotion
+> [Tạo bảng và sử dụng bảng trong Obsidian](https://www.facebook.com/groups/219067851029823/posts/231771149759493/)
 
 > 💎[Vẽ Mindmap trong Canvas](https://www.facebook.com/groups/219067851029823/posts/235964019340206/)
 
 > 💎[Thêm website vào Obsidian]()
-
-> Hướng dẫn Thay đổi banner nhanh chóng bằng 1 click
 
 >[Sử dụng Dataview dạng Task](https://www.facebook.com/groups/219067851029823/posts/238619882407953/)
 
