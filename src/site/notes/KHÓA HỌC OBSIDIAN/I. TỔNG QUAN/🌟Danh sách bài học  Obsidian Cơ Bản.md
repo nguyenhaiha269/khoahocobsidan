@@ -13,7 +13,7 @@
 
 > [!NOTE]
 > 🆓  Khu vực chia sẻ miễn phí cho cộng đồng
-> 💎  Cần truy nhập nhóm để được chia sẻ 
+> 💎  Cần truy nhập nhóm hướng dẫn,xem thông tin đăng ký ở [[KHÓA HỌC OBSIDIAN/HOME PAGE\|HOME PAGE]]
 
 >[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
