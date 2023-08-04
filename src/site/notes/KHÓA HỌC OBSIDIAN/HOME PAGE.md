@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/khoa-hoc-obsidian/home-page/","pinned":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":2,"permalink":"/khoa-hoc-obsidian/home-page/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":2,"created":"","updated":""}
 ---
 
 
