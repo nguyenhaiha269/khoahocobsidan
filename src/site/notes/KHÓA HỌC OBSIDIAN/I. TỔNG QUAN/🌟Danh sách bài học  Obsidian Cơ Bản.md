@@ -27,9 +27,13 @@ color: 100,141,20
 
 >💎[Bài 3 Bắt đầu với những khái niệm ban đầu](https://www.facebook.com/groups/219067851029823/posts/221994450737163/)
 
+
+```ad-summary
 >💎 [Bài 4.1 Thực hành tạo một trang Homepage và các thành phần](https://www.facebook.com/groups/219067851029823/posts/222127097390565/)
 
->💎[Bài 4.2KHÓA HỌC OBSIDIAN/II. NỘI DUNG/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter|⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
+>💎[⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
+```
+
 
 >💎[Bài 5 Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 
