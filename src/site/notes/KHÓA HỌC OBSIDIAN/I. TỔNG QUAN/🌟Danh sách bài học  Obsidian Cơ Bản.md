@@ -13,7 +13,9 @@ color: 100,141,20
 💎  Cần truy nhập nhóm để được chia sẻ,xem thông tin đăng ký ở [[HOME PAGE]]
 ```
 
->💎[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
+>💎[Bài 0 Giới thiệu làm quen](https://www.facebook.com/groups/219067851029823/posts/219073131029295/)
+>
+>[Bài 1 Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
 >🆓[Cách chia sẻ note cho mọi người và tải về máy của mình](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
 
@@ -21,23 +23,23 @@ color: 100,141,20
 
 >🆓[Bài 1.1 Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
 
->💎[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính]()
+>💎[Bài 2  Hướng dẫn làm việc giữa nhiều máy tính](https://www.facebook.com/groups/219067851029823/posts/220015034268438/)
 
->💎[[Bài 3 Bắt đầu với những khái niệm ban đầu\|Bài 3 Bắt đầu với những khái niệm ban đầu]]
+>💎[Bài 3 Bắt đầu với những khái niệm ban đầu](https://www.facebook.com/groups/219067851029823/posts/221994450737163/)
 
->💎 [Bài 4.1 Thực hành tạo một trang Homepage và các thành phần]
+>💎 [Bài 4.1 Thực hành tạo một trang Homepage và các thành phần](https://www.facebook.com/groups/219067851029823/posts/222127097390565/)
 
 >💎[Bài 4.2KHÓA HỌC OBSIDIAN/II. NỘI DUNG/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter|⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
 
 >💎[Bài 5 Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 
->💎[Bài 6 Học về Liên kết và các Attachments]
+>💎[Bài 6 Học về Liên kết và các Attachments](https://www.facebook.com/groups/219067851029823/posts/223963793873562)
 
 >💎Bổ xung liên kết đến pdf ( updated)
 
->💎[Bài 7 Cách tạo một note theo ngày]
+>💎[Bài 7 Cách tạo một note theo ngày](https://www.facebook.com/groups/219067851029823/posts/224577793812162/)
 
->💎[Bài 8 Cách tạo một file mẫu]
+>💎[Bài 8 Hướng dẫn dùng Canvas](https://www.facebook.com/groups/219067851029823/posts/227692430167365/)
 
 >💎[Bài 9 Bài Tags và làm việc với tags](https://www.facebook.com/groups/219067851029823/posts/227941730142435/)
 
