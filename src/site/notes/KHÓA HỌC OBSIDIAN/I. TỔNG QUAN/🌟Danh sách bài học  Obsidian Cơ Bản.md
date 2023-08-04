@@ -25,11 +25,11 @@ color: 253,141,20
 
 >💎[[Bài 3 Bắt đầu với những khái niệm ban đầu\|Bài 3 Bắt đầu với những khái niệm ban đầu]]
 
->💎 [[Bài 4.1 Thực hành tạo một trang Homepage và các thành phần\|Bài 4.1 Thực hành tạo một trang Homepage và các thành phần]]
+>💎 [Bài 4.1 Thực hành tạo một trang Homepage và các thành phần]
 
 >💎[Bài 4.2KHÓA HỌC OBSIDIAN/II. NỘI DUNG/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter|⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
 
->💎[[Bài 5 Làm đẹp trang Homepage với một số Plugin được giới thiệu\|Bài 5 Làm đẹp trang Homepage với một số Plugin được giới thiệu]]
+>💎[[Bài 5 Làm đẹp trang Homepage với admotion plugin\|Bài 5 Làm đẹp trang Homepage với admotion plugin]]
 
 >💎[[Bài 6 Học về Liên kết và các Attachments\|Bài 6 Học về Liên kết và các Attachments]]
 
@@ -41,8 +41,11 @@ color: 253,141,20
 
 >💎[[Bài 9 Bài Tags và làm việc với tags\|Bài 9 Bài Tags và làm việc với tags]]
 
->💎[[Bài 10 Hướng dẫn tìm kiếm file cơ bản\|Bài 10 Hướng dẫn tìm kiếm file cơ bản]]
+>💎[Bài 10 Hướng dẫn tìm kiếm file cơ bản-no plugin](https://www.facebook.com/groups/219067851029823/posts/227826946820580)
 
->💎[[Bài 11 Hướng dẫn tìm kiếm file nâng cao\|Bài 11 Hướng dẫn tìm kiếm file nâng cao]]
+>💎[Bài 11 Hướng dẫn tìm kiếm file nâng cao]()
 
 [Một số Tip_1](https://www.facebook.com/groups/219067851029823/posts/239179162352025/)
+
+
+
