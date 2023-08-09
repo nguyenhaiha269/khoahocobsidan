@@ -13,3 +13,8 @@
 ```ad-info
 [KHÓA HỌC ANKI CỦA TÁC GIẢ- ADMIN NHÓM ANKI CÓ HÀNG NGHÌN THÀNH VIÊN](https://hocanki.com/)
 ```
+
+
+```ad-info
+[Thịnh vũ blog](https://thinhvu.netlify.app/?source=github&medium=intro)
+```
