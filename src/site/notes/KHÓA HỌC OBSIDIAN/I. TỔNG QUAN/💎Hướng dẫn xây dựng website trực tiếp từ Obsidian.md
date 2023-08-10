@@ -11,7 +11,7 @@
 **Các Website đã tạo trực tiếp từ Obsidian  để bạn tham khảo thêm:**
 
 ```ad-info
-[KHÓA HỌC ANKI CỦA TÁC GIẢ- ADMIN NHÓM ANKI CÓ HÀNG NGHÌN THÀNH VIÊN](https://hocanki.com/)
+[Khóa học anki- nhóm có hàng nghìn thành viên mà mình may mắn được biết tới khi tự học anki](https://hocanki.com/)
 ```
 
 
