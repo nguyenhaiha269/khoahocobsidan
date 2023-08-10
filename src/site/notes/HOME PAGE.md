@@ -5,7 +5,7 @@
 ![](https://i.imgur.com/xp0ymCk.png)
 
 # <center>  **Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian**   </center>
-###<center>Học tập và chia sẻ đam mê</center>
+### <center>Học tập và chia sẻ đam mê</center>
 
 ##### <center> 🌱🌱🌱🌱🌱🌱🌱🌱</center>
 
