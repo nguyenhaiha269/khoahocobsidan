@@ -9,15 +9,7 @@
 
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
+![[Pasted i![[Pasted image 20230804171443.png\|Pasted i![[Pasted image 20230804171443.png]]
 
 
 
