@@ -3,16 +3,10 @@
 ---
 
 
-<img src="https://i.imgur.com/qaXjRgS.png" width="700" height="190">
+<img src="https://i.imgur.com/zLp3xnS.png" width="700" height="200">
 
 
-
-
-
-![](https://i.imgur.com/zLp3xnS.png)
-![](https://i.imgur.com/blabXON.png)
-
-# <center> 📝  **HỌC OBSIDIAN**   </center>
+# <center> 📝  **OBSIDIAN**   </center>
 ##### <center>Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian</center>
 
 ##### <center> 🌱🌱🌱🌱🌱🌱🌱🌱</center>
