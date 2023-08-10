@@ -3,9 +3,14 @@
 ---
 
 
-<img src="https://i.imgur.com/4kE3Xuj.png" width="700" height="180">
+<img src="https://i.imgur.com/qaXjRgS.png" width="700" height="10">
 
 
+
+
+
+![](https://i.imgur.com/zLp3xnS.png)
+![](https://i.imgur.com/blabXON.png)
 
 # <center> 📝  **HỌC OBSIDIAN**   </center>
 ##### <center>Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian</center>
