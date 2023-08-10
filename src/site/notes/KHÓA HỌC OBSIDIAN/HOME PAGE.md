@@ -7,7 +7,6 @@
 
 
 
-
 # <center> 📝  **HỌC OBSIDIAN**   </center>
 ##### <center>Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian</center>
 
