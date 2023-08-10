@@ -5,8 +5,8 @@
 
 <img src="https://i.imgur.com/zLp3xnS.png" width="700" height="200">
 
+![](https://i.imgur.com/xp0ymCk.png)
 
-![](https://i.imgur.com/aIBEbDU.png)
 
 # <center>  **Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian**   </center>
 ##### <center>Học tập và chia sẻ đam mê</center>
