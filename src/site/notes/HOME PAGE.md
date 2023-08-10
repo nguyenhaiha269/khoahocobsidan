@@ -2,11 +2,7 @@
 {"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":2,"permalink":"/home-page/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":2,"created":"","updated":""}
 ---
 
-
-<img src="https://i.imgur.com/zLp3xnS.png" width="700" height="200">
-
 ![](https://i.imgur.com/xp0ymCk.png)
-
 
 # <center>  **Nơi tập hợp các hướng dẫn và chia sẻ về Obsidian**   </center>
 ##### <center>Học tập và chia sẻ đam mê</center>
