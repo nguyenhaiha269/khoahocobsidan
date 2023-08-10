@@ -3,7 +3,7 @@
 ---
 
 
-<img src="https://i.imgur.com/qaXjRgS.png" width="700" height="10">
+<img src="https://i.imgur.com/qaXjRgS.png" width="700" height="190">
 
 
 
