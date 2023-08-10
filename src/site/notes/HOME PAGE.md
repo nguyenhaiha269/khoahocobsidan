@@ -22,11 +22,11 @@ Liên hệ:
 
 >1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|🌟Link download phần mềm]]
  
->2. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
+>2. [[TÌM HIỂU OBSIDIAN/II. NỘI DUNG/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 
->3. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
+>3. [[TÌM HIỂU OBSIDIAN/II. NỘI DUNG/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 
->4. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+>4. [[TÌM HIỂU OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 
 >5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
@@ -48,7 +48,7 @@ Liên hệ:
 
 >[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian\|🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian]]
 
->[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Feedback của học viên\|🌟Feedback của học viên]]
+>[[TÌM HIỂU OBSIDIAN/III. THAM KHẢO/🌟Feedback của học viên\|🌟Feedback của học viên]]
 <div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
 <br>
 <br>
