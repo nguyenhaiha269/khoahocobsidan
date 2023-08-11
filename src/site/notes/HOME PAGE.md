@@ -48,7 +48,7 @@ Liên hệ:
 
 >[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian\|🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian]]
 
->[[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟Feedback của học viên\|🌟Feedback của học viên]]
+>[[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.4 Feedback của học viên\|🌟1.4 Feedback của học viên]]
 <div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
 <br>
 <br>
