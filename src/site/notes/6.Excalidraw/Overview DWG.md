@@ -41,15 +41,3 @@
 { #CXNrVbyW}
 
 
-Notes
-{ #dWLG6zIa}
-
-
-Search
-{ #9xKLZj9N}
-
-
-Cloud
-{ #nHXKczK6}
-
-
