@@ -2,7 +2,7 @@
 {"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"permalink":"/6-excalidraw/overview-dwg/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
-
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Text Elements
 [[1. HỌC OBSIDIAN ONLINE/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
