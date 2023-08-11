@@ -2,7 +2,6 @@
 {"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"permalink":"/6-excalidraw/overview-dwg/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
 # Text Elements
