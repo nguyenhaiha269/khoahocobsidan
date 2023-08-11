@@ -31,18 +31,16 @@ Liên hệ:
 >[[1. HỌC OBSIDIAN ONLINE/🌟1.4 Feedback của học viên\|🌟1.4 Feedback của học viên]]
 
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
+Các Câu hỏi của mọi người để tham khảo
+[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
+[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
+[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
 
->1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|🌟Link download phần mềm]]
- 
->2. [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
+Các ý tưởng và nguồn tham khảo khác
+[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
+[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
+[[🌟Ví Dụ ShowCase\|🌟Ví Dụ ShowCase]]
 
->3. [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
-
->4. [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
-
->5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
-
->6. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 
  ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 
