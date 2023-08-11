@@ -18,37 +18,36 @@ Liên hệ:
 </script>
 
 
-**I. Bạn là ngừời đang tự học về obsidian có thể tìm kiếm thông tin hữu tích ở ngay dưới đây:**
+*
+
+######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
+
+##   I. ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
+
+
+> [[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
+> [[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
+> [[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
+>[[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.4 Feedback của học viên\|🌟1.4 Feedback của học viên]]
+
+## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 
 >1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|🌟Link download phần mềm]]
  
->2. [[TÌM HIỂU OBSIDIAN/2.CÁC NỘI DUNG ĐỂ BẠN TÌM HIỂU THÊM/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
+>2. [[2. NỘI DUNG CHI TIẾT/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 
->3. [[TÌM HIỂU OBSIDIAN/2.CÁC NỘI DUNG ĐỂ BẠN TÌM HIỂU THÊM/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
+>3. [[2. NỘI DUNG CHI TIẾT/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 
->4. [[TÌM HIỂU OBSIDIAN/2.CÁC NỘI DUNG ĐỂ BẠN TÌM HIỂU THÊM/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+>4. [[2. NỘI DUNG CHI TIẾT/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 
 >5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
 >6. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 
-
-######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
-
-**II. Còn đây là nội dung khóa học nếu bạn vẫn gặp những khó khăn sau quá trình tự học**
-
->1. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/🌟Danh sách bài học  Obsidian Cơ Bản\|🌟Danh sách bài học  Obsidian Cơ Bản]]
-
->2. [[KHÓA HỌC OBSIDIAN/I. TỔNG QUAN/🌟Danh sách bài học Obsidian nâng cao\|🌟Danh sách bài học Obsidian nâng cao]]
-
-
  ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 
-**III.Tham khảo câu hỏi và feedback của học viên**
 
->[[KHÓA HỌC OBSIDIAN/III. THAM KHẢO/🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian\|🌟Các câu hỏi của mọi người hay hỏi khi mới bắt đầu với Obsidian]]
 
->[[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.4 Feedback của học viên\|🌟1.4 Feedback của học viên]]
 <div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 28px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div>
 <br>
 <br>
