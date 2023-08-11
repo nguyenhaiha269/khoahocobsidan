@@ -22,23 +22,35 @@
 { #mGqo3FK9}
 
 
-[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
-{ #jdLBYu07}
-
-
-[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
-{ #K5c8Ww5Y}
-
-
-[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
-{ #ph51lyeN}
-
-
 [[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
 { #NeUbSig1}
 
 
 [[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
 { #DMkVNiLQ}
+
+
+[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
+{ #wfiXwfxJ}
+
+
+[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
+{ #gfYzfZxv}
+
+
+[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
+{ #CXNrVbyW}
+
+
+Notes
+{ #dWLG6zIa}
+
+
+Search
+{ #9xKLZj9N}
+
+
+Cloud
+{ #nHXKczK6}
 
 
