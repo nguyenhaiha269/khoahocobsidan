@@ -25,20 +25,20 @@ Liên hệ:
 ##   I. ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
 
 
-> [[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
-> [[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
-> [[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
->[[1. NỘI DUNG KHÓA HỌC OBSIDIAN ONLINE/🌟1.4 Feedback của học viên\|🌟1.4 Feedback của học viên]]
+> [[1. HỌC OBSIDIAN ONLINE/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
+> [[1. HỌC OBSIDIAN ONLINE/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
+> [[1. HỌC OBSIDIAN ONLINE/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
+>[[1. HỌC OBSIDIAN ONLINE/🌟1.4 Feedback của học viên\|🌟1.4 Feedback của học viên]]
 
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 
 >1. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Link download phần mềm\|🌟Link download phần mềm]]
  
->2. [[2. NỘI DUNG CHI TIẾT/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
+>2. [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 
->3. [[2. NỘI DUNG CHI TIẾT/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
+>3. [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 
->4. [[2. NỘI DUNG CHI TIẾT/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+>4. [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 
 >5. [[KHÓA HỌC OBSIDIAN/II. NỘI DUNG/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 
