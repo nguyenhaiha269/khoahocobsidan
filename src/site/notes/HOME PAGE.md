@@ -39,7 +39,7 @@ Các Câu hỏi của mọi người để tham khảo
 Các ý tưởng và nguồn tham khảo khác
 [[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
 [[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
-[[🌟Ví Dụ ShowCase\|🌟Ví Dụ ShowCase]]
+
 
 
  ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
