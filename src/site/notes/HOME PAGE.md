@@ -55,6 +55,5 @@ Liên hệ:
 <center> <iframe src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" ></iframe> </center> 
 
 
-<iframe width="560" height="315" src="https://on.soundcloud.com/ehwgr" ></iframe>
 
 
