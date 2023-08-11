@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/2-noi-dung-chi-tiet/huong-dan-dung-pandoc-de-xuat-ban-note-sang-word-epub-va-cac-dinh-dang-khac/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
+
+# [[HOME PAGE\|👈 QUAY LẠI]]
+
 Bước 1: ở obsidian cài plugin “ Obsidian pandoc”
 
 Bước 2: cài phần mềm pandoc trên máy tính
