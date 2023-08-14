@@ -4,5 +4,5 @@
 
 #plugin 
 
-- [ ] [Home tab Plugin]()
+- [ ] [[1. HỌC OBSIDIAN ONLINE/Các Video và bài giảng Chia sẻ/Home tab Plugin\|Home tab Plugin]]
 - [ ] [Auto Link title]()
