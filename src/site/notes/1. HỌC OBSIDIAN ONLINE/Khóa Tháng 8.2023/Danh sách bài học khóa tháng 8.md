@@ -11,5 +11,8 @@
 ## [Bài5.1 Hướng dẫn tạo homepage](https://www.facebook.com/groups/2549020108596526/posts/2556096101222260/)
 ## [Bài 5.2 Hướng dẫn thay banner bằng 1 click](https://www.facebook.com/groups/2549020108596526/posts/2556111461220724/)
 ## [Bài 6 Attachments trong Obsidian](https://www.facebook.com/groups/2549020108596526/posts/2557701797728357/)
-## [Bài 7 Daily note và template](https://www.facebook.com/100001809409915/videos/pcb.2559203347578202/674150284159160)
+## [Bài 7.1 Daily note và template](https://www.facebook.com/100001809409915/videos/pcb.2559203347578202/674150284159160)
+
+## [Bài 7.2 Hướng dẫn plugin calendar để tạo note theo ngày](https://www.facebook.com/100001809409915/videos/pcb.2559203347578202/9698314336877070)
+
 ## [Bài 8 Hướng dẫn dùng Tag](https://www.facebook.com/groups/2549020108596526/posts/2562534583911745).
