@@ -25,10 +25,10 @@ Liên hệ:
 ##   I. ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
 
 
-> [[1. HỌC OBSIDIAN ONLINE/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
-> [[1. HỌC OBSIDIAN ONLINE/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
-> [[1. HỌC OBSIDIAN ONLINE/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
->[[1. HỌC OBSIDIAN ONLINE/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
+> [[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
+> [[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
+> [[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
+>[[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
 
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 Các Câu hỏi của mọi người để tham khảo
@@ -37,8 +37,8 @@ Các Câu hỏi của mọi người để tham khảo
 [[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
 
 Các ý tưởng và nguồn tham khảo khác
-[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
-[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo khác/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
+[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
+[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
 
 
 
