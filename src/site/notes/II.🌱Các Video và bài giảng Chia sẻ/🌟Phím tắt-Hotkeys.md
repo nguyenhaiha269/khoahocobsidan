@@ -22,6 +22,7 @@ Ctrl H: tô màu text
 Ctrl N: tạo một văn bản mới
 
 
+
 ### Các phím tắt mặc định được liệt kê bên dưới.
 
 |Chức năng||Phím tắt|
