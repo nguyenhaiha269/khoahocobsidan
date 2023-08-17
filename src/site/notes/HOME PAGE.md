@@ -43,6 +43,7 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Cách tạo Dashboard Xinh đẹp trong Obsidian\|Cách tạo Dashboard Xinh đẹp trong Obsidian]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Cách thay đổi kích cỡ ảnh\|Cách thay đổi kích cỡ ảnh]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Chia view OBSIDIAN thành các view nhìn\|Chia view OBSIDIAN thành các view nhìn]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Chỉnh sửa Thanh Ribbon\|Chỉnh sửa Thanh Ribbon]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Home tab Plugin\|Home tab Plugin]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Advanced URI\|Plugin Advanced URI]]
@@ -72,6 +73,5 @@ I. 🍁Nội Dung khóa học
 
 <center> <iframe src="https://widgetbox.app/embed/calendar/simple/AtcwrQqFT6sz7AKu8EqvHX?flag=true" "heigh=500" "width=500" ></iframe> </center> 
 
-
-
+<!--Dayspedia.com widget--><iframe width='268' height='166' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjp0cnVlLCJ3LTE0IjpmYWxzZSwidy0xNSI6ZmFsc2UsInctMTEwIjpmYWxzZSwidy13aWR0aC0wIjp0cnVlLCJ3LXdpZHRoLTEiOmZhbHNlLCJ3LXdpZHRoLTIiOmZhbHNlLCJ3LTE2IjoiMjRweCIsInctMTkiOiI0OCIsInctMTciOiIxNiIsInctMjEiOnRydWUsImJnaW1hZ2UiOjIsImJnaW1hZ2VTZXQiOnRydWUsInctMjFjMCI6IiNmZmZmZmYiLCJ3LTAiOnRydWUsInctMyI6dHJ1ZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiIxIiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4IjpmYWxzZSwidy13aWR0aC0yYy0wIjoiMzAwIiwidy0xMTUiOmZhbHNlfQ==&lang=en&cityid=7853'></iframe><!--Dayspedia.com widget ENDS-->
 
