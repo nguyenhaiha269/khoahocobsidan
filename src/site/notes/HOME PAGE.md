@@ -35,7 +35,6 @@ I. 🍁Nội Dung khóa học
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 
 ### II.🌱Các Video và bài giảng Chia sẻ
-- [[II.🌱Các Video và bài giảng Chia sẻ/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter\|⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
