@@ -18,8 +18,6 @@ Liên hệ:
 </script>
 
 
-*
-
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
 
  ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
