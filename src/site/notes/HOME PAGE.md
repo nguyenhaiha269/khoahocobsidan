@@ -40,8 +40,8 @@ Liên hệ:
 { .block-language-dataview}
 ### Các ý tưởng và nguồn tham khảo khác
 
-- [[IV.🥬Các ý tưởng và nguồn tham khảo/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
-- [[IV.🥬Các ý tưởng và nguồn tham khảo/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
+- [[IV.🥬Các ý tưởng và nguồn tham khảo/💡1000 ý tưởng dùng canvas\|💡1000 ý tưởng dùng canvas]]
+- [[IV.🥬Các ý tưởng và nguồn tham khảo/💡Hướng dẫn Obsidian nguồn Tiếng Việt\|💡Hướng dẫn Obsidian nguồn Tiếng Việt]]
 
 { .block-language-dataview}
 
