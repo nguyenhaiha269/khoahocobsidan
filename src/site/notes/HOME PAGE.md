@@ -24,9 +24,9 @@ Liên hệ:
 
 ##   ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
 I. 🍁Nội Dung khóa học
-- [[I. 🍁Nội Dung khóa học/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
 - [[I. 🍁Nội Dung khóa học/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
 - [[I. 🍁Nội Dung khóa học/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
+- [[I. 🍁Nội Dung khóa học/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
 - [[I. 🍁Nội Dung khóa học/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
 
 { .block-language-dataview}
@@ -35,25 +35,25 @@ I. 🍁Nội Dung khóa học
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 
 ### II.🌱Các Video và bài giảng Chia sẻ
+- [[II.🌱Các Video và bài giảng Chia sẻ/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter\|⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Link download phần mềm\|🌟Link download phần mềm]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Home tab Plugin\|Home tab Plugin]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Advanced URI\|Plugin Advanced URI]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Commander\|Plugin Commander]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Scroll to Top Plugin\|Plugin Scroll to Top Plugin]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter\|⭐Cách thay icon banner siêu nhanh bằng Commader và Image Inserter]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|🌟Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Link download phần mềm\|🌟Link download phần mềm]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
 
 { .block-language-dataview}
 
 ### III. 🍀Các Câu hỏi của mọi người để tham khảo
 
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
-- [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
+- [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
 
 { .block-language-dataview}
 
