@@ -32,13 +32,13 @@ Liên hệ:
 
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 Các Câu hỏi của mọi người để tham khảo
-[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
-[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
-[[1. HỌC OBSIDIAN ONLINE/Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
+[[II. 🍀Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
+[[II. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
+[[II. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
 
 Các ý tưởng và nguồn tham khảo khác
-[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
-[[1. HỌC OBSIDIAN ONLINE/Các ý tưởng và nguồn tham khảo/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
+[[IV.🥬Các ý tưởng và nguồn tham khảo/🌟1000 ý tưởng dùng canvas\|🌟1000 ý tưởng dùng canvas]]
+[[IV.🥬Các ý tưởng và nguồn tham khảo/🌟Hướng dẫn Obsidian nguồn Tiếng Việt\|🌟Hướng dẫn Obsidian nguồn Tiếng Việt]]
 
 
 
