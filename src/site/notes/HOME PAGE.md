@@ -25,10 +25,10 @@ Liên hệ:
 ##   I. ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
 
 
-> [[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
-> [[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
-> [[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
->[[1. HỌC OBSIDIAN ONLINE/Nội Dung khóa học/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
+> [[I. 🍁Nội Dung khóa học/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
+> [[I. 🍁Nội Dung khóa học/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
+> [[I. 🍁Nội Dung khóa học/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
+>[[I. 🍁Nội Dung khóa học/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
 
 ## II . BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 Các Câu hỏi của mọi người để tham khảo
