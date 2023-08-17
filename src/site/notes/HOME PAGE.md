@@ -41,6 +41,8 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|🌟Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Link download phần mềm\|🌟Link download phần mềm]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Phím tắt-Hotkeys\|🌟Phím tắt-Hotkeys]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Cách tạo Dashboard Xinh đẹp trong Obsidian\|Cách tạo Dashboard Xinh đẹp trong Obsidian]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Cách thay đổi kích cỡ ảnh\|Cách thay đổi kích cỡ ảnh]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Chỉnh sửa Thanh Ribbon\|Chỉnh sửa Thanh Ribbon]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Home tab Plugin\|Home tab Plugin]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Advanced URI\|Plugin Advanced URI]]
