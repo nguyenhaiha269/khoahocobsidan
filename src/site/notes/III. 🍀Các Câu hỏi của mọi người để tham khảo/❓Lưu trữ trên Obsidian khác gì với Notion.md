@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-cac-cau-hoi-cua-moi-nguoi-de-tham-khao/luu-tru-tren-obsidian-khac-gi-voi-notion/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/iii-cac-cau-hoi-cua-moi-nguoi-de-tham-khao/luu-tru-tren-obsidian-khac-gi-voi-notion/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
