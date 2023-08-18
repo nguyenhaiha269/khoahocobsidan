@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/huong-dan-chia-se-file-va-lay-file-duoc-chia-se-o-obsidian/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/huong-dan-chia-se-file-va-lay-file-duoc-chia-se-o-obsidian/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 # [[HOME PAGE\|👈 QUAY LẠI]]
