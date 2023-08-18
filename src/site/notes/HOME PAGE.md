@@ -16,11 +16,8 @@ Liên hệ:
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
-
-
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
-
- ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
+ ## ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
 I. 🍁Nội Dung khóa học
 - [[I. 🍁Nội Dung khóa học/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
 - [[I. 🍁Nội Dung khóa học/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
@@ -30,8 +27,7 @@ I. 🍁Nội Dung khóa học
 { .block-language-dataview}
 <center><div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div></center>
 <br>
- BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
-
+ ## BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
 ### II.🌱Các Video và bài giảng Chia sẻ
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟 Các Plugin hay và cách dùng\|🌟 Các Plugin hay và cách dùng]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/🌟Học từ vựng bằng Space Repetition\|🌟Học từ vựng bằng Space Repetition]]
@@ -50,16 +46,12 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Scroll to Top Plugin\|Plugin Scroll to Top Plugin]]
 
 { .block-language-dataview}
-
 ### III. 🍀Các Câu hỏi của mọi người để tham khảo
-
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
 
 { .block-language-dataview}
-
-
 ### IV.🥬Các ý tưởng và nguồn tham khảo
 - [[IV.🥬Các ý tưởng và nguồn tham khảo/💡1000 ý tưởng dùng canvas\|💡1000 ý tưởng dùng canvas]]
 - [[IV.🥬Các ý tưởng và nguồn tham khảo/💡Hướng dẫn Obsidian nguồn Tiếng Việt\|💡Hướng dẫn Obsidian nguồn Tiếng Việt]]
