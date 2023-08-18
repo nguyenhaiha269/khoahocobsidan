@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/plugin-scroll-to-top-plugin/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/plugin-scroll-to-top-plugin/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
