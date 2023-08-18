@@ -27,11 +27,11 @@ Gõ chữ : “Get-command pandoc” như hình sau Rồi nhấn enter
 Thu được kết quả như sau: copy phần bôi vàng và trở lại obsidian
 ![](https://i.imgur.com/ecFgG7y.png)
 Paste phần bôi vào vào ô số 2; ô số 1 là Nơi ta dự định xuất ra, nếu không cài thì nó sẽ 
-chạy mặc định vào vault
+Chạy mặc định vào vault
 ![](https://i.imgur.com/nT3t6lq.png)
 SAu khi paste thì khởi động lại OBSIDIAN -SẼ mất chữ mầu đỏ
 Xuất file thôi: 
-gõ ctrl P để hiện lệnh pandoc 
+Gõ ctrl P để hiện lệnh pandoc 
 
 ![](https://i.imgur.com/yxSDNSu.png)
 Lưu ý : nếu báo fail không xuất được thì khởi động lại Obsidian, và xóa nội dung số 2 ở 
