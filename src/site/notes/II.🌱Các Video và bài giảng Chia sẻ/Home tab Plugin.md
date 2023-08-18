@@ -1,5 +1,5 @@
 ---
-{"telegraph_page_url":"https://telegra.ph/Home-tab-Plugin-08-14","telegraph_page_path":"Home-tab-Plugin-08-14","dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/home-tab-plugin/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"telegraph_page_url":"https://telegra.ph/Home-tab-Plugin-08-14","telegraph_page_path":"Home-tab-Plugin-08-14","dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/home-tab-plugin/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 #plugin
