@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/cach-tao-dashboard-xinh-dep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/cach-tao-dashboard-xinh-dep-trong-obsidian/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 ## Các Plug in cần cài
