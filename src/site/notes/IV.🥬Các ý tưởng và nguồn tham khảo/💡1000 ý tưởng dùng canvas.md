@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iv-cac-y-tuong-va-nguon-tham-khao/1000-y-tuong-dung-canvas/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/iv-cac-y-tuong-va-nguon-tham-khao/1000-y-tuong-dung-canvas/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 ### Source
