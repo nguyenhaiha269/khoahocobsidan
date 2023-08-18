@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/cach-thay-doi-kich-co-anh/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/cach-thay-doi-kich-co-anh/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 #### Thay đổi kích thước hình ảnh 
