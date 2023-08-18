@@ -1,5 +1,5 @@
 ---
-{"banner":"Kitchen.jpeg","dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/bai-tags/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"banner":"Kitchen.jpeg","dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/bai-tags/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 Status_checkbox:: true
