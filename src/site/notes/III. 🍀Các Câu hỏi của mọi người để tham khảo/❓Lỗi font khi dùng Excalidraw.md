@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-cac-cau-hoi-cua-moi-nguoi-de-tham-khao/loi-font-khi-dung-excalidraw/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/iii-cac-cau-hoi-cua-moi-nguoi-de-tham-khao/loi-font-khi-dung-excalidraw/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
