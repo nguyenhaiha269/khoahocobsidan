@@ -43,6 +43,7 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/Home tab Plugin\|Home tab Plugin]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn xuất bản pdf thành file markdown\|Hướng dẫn xuất bản pdf thành file markdown]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Link download phần mềm\|Link download phần mềm]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Phím tắt-Hotkeys\|Phím tắt-Hotkeys]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Advanced URI\|Plugin Advanced URI]]
