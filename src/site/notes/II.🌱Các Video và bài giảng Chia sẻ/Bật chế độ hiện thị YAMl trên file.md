@@ -3,4 +3,4 @@
 ---
 
 ![](https://i.imgur.com/iwmcWwT.png)
-[[Dự Án/Bài Viết 2023/Hướng dẫn dùng YAML\|Hướng dẫn dùng YAML]]
+[[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn dùng YAML\|Hướng dẫn dùng YAML]]
