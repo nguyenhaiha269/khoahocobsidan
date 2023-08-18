@@ -34,10 +34,13 @@ I. 🍁Nội Dung khóa học
 ### II.🌱Các Video và bài giảng Chia sẻ
 
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Bài Tags\|Bài Tags]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Bật chế độ hiện thị YAMl trên file\|Bật chế độ hiện thị YAMl trên file]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Buttons\|Buttons]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Các Plugin hay và cách dùng\|Các Plugin hay và cách dùng]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Cách lấy thông tin từ website vào obsidian\|Cách lấy thông tin từ website vào obsidian]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Cách tạo Dashboard Xinh đẹp trong Obsidian\|Cách tạo Dashboard Xinh đẹp trong Obsidian]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Cách thay đổi kích cỡ ảnh\|Cách thay đổi kích cỡ ảnh]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Callout\|Callout]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Chia view OBSIDIAN thành các view nhìn\|Chia view OBSIDIAN thành các view nhìn]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Chỉnh sửa Thanh Ribbon\|Chỉnh sửa Thanh Ribbon]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Học từ vựng bằng Space Repetition\|Học từ vựng bằng Space Repetition]]
@@ -49,10 +52,13 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Phím tắt-Hotkeys\|Phím tắt-Hotkeys]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Advanced URI\|Plugin Advanced URI]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Commander\|Plugin Commander]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Open files with commands\|Plugin Open files with commands]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Reveal Active File Button\|Plugin Reveal Active File Button]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Scroll to Top Plugin\|Plugin Scroll to Top Plugin]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Publish to Telegraph\|Publish to Telegraph]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Remember cursor position\|Remember cursor position]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Tạo các Workspace\|Tạo các Workspace]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Tạo một list mà tên có chứa một từ hoặc cụm từ trong tiêu đề\|Tạo một list mà tên có chứa một từ hoặc cụm từ trong tiêu đề]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Tạo một list từ một FOLDER HOẶC SUBFOLDER\|Tạo một list từ một FOLDER HOẶC SUBFOLDER]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Tray Plugin\|Tray Plugin]]
 
 { .block-language-dataview}
