@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/huong-dan-dung-pandoc-de-xuat-ban-note-sang-word-epub-va-cac-dinh-dang-khac/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/huong-dan-dung-pandoc-de-xuat-ban-note-sang-word-epub-va-cac-dinh-dang-khac/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
