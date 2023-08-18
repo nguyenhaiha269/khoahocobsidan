@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":2,"permalink":"/home-page/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-home":true,"dg-pinned":true,"dg-note-icon":2,"permalink":"/home-page/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":2,"created":"","updated":""}
 ---
 
 ![](https://i.imgur.com/xp0ymCk.png)
@@ -33,22 +33,27 @@ I. 🍁Nội Dung khóa học
  
 ### II.🌱Các Video và bài giảng Chia sẻ
 
-- [[II.🌱Các Video và bài giảng Chia sẻ/Bài Tags\|Bài Tags]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Các Plugin hay và cách dùng\|Các Plugin hay và cách dùng]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Cách tạo Dashboard Xinh đẹp trong Obsidian\|Cách tạo Dashboard Xinh đẹp trong Obsidian]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Cách thay đổi kích cỡ ảnh\|Cách thay đổi kích cỡ ảnh]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Chia view OBSIDIAN thành các view nhìn\|Chia view OBSIDIAN thành các view nhìn]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Chỉnh sửa Thanh Ribbon\|Chỉnh sửa Thanh Ribbon]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Học từ vựng bằng Space Repetition\|Học từ vựng bằng Space Repetition]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Home tab Plugin\|Home tab Plugin]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn xuất bản pdf thành file markdown\|Hướng dẫn xuất bản pdf thành file markdown]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Link download phần mềm\|Link download phần mềm]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Phím tắt-Hotkeys\|Phím tắt-Hotkeys]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Advanced URI\|Plugin Advanced URI]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Commander\|Plugin Commander]]
-- [[II.🌱Các Video và bài giảng Chia sẻ/Plugin Scroll to Top Plugin\|Plugin Scroll to Top Plugin]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Bài Tags\|Bài Tags]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Buttons\|Buttons]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Các Plugin hay và cách dùng\|Các Plugin hay và cách dùng]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Cách tạo Dashboard Xinh đẹp trong Obsidian\|Cách tạo Dashboard Xinh đẹp trong Obsidian]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Cách thay đổi kích cỡ ảnh\|Cách thay đổi kích cỡ ảnh]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Chia view OBSIDIAN thành các view nhìn\|Chia view OBSIDIAN thành các view nhìn]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Chỉnh sửa Thanh Ribbon\|Chỉnh sửa Thanh Ribbon]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Học từ vựng bằng Space Repetition\|Học từ vựng bằng Space Repetition]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Home tab Plugin\|Home tab Plugin]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Hướng dẫn xuất bản pdf thành file markdown\|Hướng dẫn xuất bản pdf thành file markdown]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Link download phần mềm\|Link download phần mềm]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Phím tắt-Hotkeys\|Phím tắt-Hotkeys]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Advanced URI\|Plugin Advanced URI]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Commander\|Plugin Commander]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Open files with commands\|Plugin Open files with commands]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Plugin Scroll to Top Plugin\|Plugin Scroll to Top Plugin]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Publish to Telegraph\|Publish to Telegraph]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Remember cursor position\|Remember cursor position]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Tray Plugin\|Tray Plugin]]
 
 { .block-language-dataview}
 ### III. 🍀Các Câu hỏi của mọi người để tham khảo
