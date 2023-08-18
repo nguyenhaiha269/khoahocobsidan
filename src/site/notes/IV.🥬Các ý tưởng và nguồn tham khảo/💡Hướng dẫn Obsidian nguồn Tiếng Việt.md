@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iv-cac-y-tuong-va-nguon-tham-khao/huong-dan-obsidian-nguon-tieng-viet/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/iv-cac-y-tuong-va-nguon-tham-khao/huong-dan-obsidian-nguon-tieng-viet/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
