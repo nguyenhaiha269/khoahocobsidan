@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/phim-tat-hotkeys/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/phim-tat-hotkeys/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 # [[HOME PAGE\|👈 QUAY LẠI]]
