@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/cac-plugin-hay-va-cach-dung/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/cac-plugin-hay-va-cach-dung/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
