@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iii-cac-cau-hoi-cua-moi-nguoi-de-tham-khao/chia-note-thanh-nhieu-phan/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"permalink":"/iii-cac-cau-hoi-cua-moi-nguoi-de-tham-khao/chia-note-thanh-nhieu-phan/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 Em mới tập sử dung obsidian và em muốn chia 1 note thành 2 phần, 1 phần để ghi câu hỏi và 1 phần để take note thì phải làm sao ạ?
