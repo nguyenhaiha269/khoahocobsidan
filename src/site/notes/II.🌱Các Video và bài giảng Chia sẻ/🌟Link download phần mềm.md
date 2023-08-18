@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/link-download-phan-mem/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/ii-cac-video-va-bai-giang-chia-se/link-download-phan-mem/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
