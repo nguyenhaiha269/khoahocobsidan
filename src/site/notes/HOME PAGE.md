@@ -52,6 +52,7 @@ I. 🍁Nội Dung khóa học
 { .block-language-dataview}
 ### III. 🍀Các Câu hỏi của mọi người để tham khảo
 
+- [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓ Chia note thành nhiều phần\|❓ Chia note thành nhiều phần]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
