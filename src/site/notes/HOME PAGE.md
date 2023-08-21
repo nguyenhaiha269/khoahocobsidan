@@ -32,6 +32,7 @@ I. 🍁Nội Dung khóa học
  
 ### II.🌱Các Video và bài giảng Chia sẻ
 
+- [[II.🌱Các Video và bài giảng Chia sẻ/💎Hướng dẫn xem mindmap của notes\|💎Hướng dẫn xem mindmap của notes]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Bài Tags\|Bài Tags]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Bật chế độ hiện thị YAMl trên file\|Bật chế độ hiện thị YAMl trên file]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Buttons\|Buttons]]
