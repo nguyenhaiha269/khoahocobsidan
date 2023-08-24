@@ -8,5 +8,6 @@
 # VÍ DỤ
 
 - [[0.Attachments/Untitled\|Untitled]]
+- [[Untitled\|Untitled]]
 
 { .block-language-dataview}
