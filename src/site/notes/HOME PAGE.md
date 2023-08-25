@@ -86,6 +86,7 @@ I. 🍁Nội Dung khóa học
 
 - [[IV.🥬Các ý tưởng và nguồn tham khảo/💡1000 ý tưởng dùng canvas\|💡1000 ý tưởng dùng canvas]]
 - [[IV.🥬Các ý tưởng và nguồn tham khảo/💡Hướng dẫn Obsidian nguồn Tiếng Việt\|💡Hướng dẫn Obsidian nguồn Tiếng Việt]]
+- [[IV.🥬Các ý tưởng và nguồn tham khảo/Vault mẫu để view chơi\|Vault mẫu để view chơi]]
 
 { .block-language-dataview}
 
