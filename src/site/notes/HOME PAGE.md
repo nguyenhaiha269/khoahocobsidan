@@ -11,10 +11,8 @@
 
 Liên hệ: 
 [<img src="https://i.imgur.com/oMz9dgC.png" width="40" height="40">](https://www.facebook.com/hahtd3) [<img  src="https://i.imgur.com/f1EQ36e.png" width="40" height="40">](https://zalo.me/979988473) [<img src="https://i.imgur.com/fHAwMOe.png" width="150" height="40">](https://i.imgur.com/ilHdIvR.png)
-<a class="weatherwidget-io" href="https://forecast7.com/en/21d03105d83/hanoi/" data-label_1="HÀ NỘI" data-label_2="WEATHER" data-theme="hexellence" >HÀ NỘI WEATHER</a>
-<script>
-!function (d, s, id){var js, fjs=d.getElementsByTagName (s)[0]; if (!d.getElementById (id)){js=d.createElement (s); js. Id=id; js. Src=' https://weatherwidget.io/js/widget.min.js '; fjs.ParentNode.InsertBefore (js, fjs);}}(document,'script','weatherwidget-io-js');
-</script>
+### VỀ TÔI [[Nguyễn Hải Hà\|Nguyễn Hải Hà]]
+
 ######  <center> 🌱🌱 🌱🌱 🌱🌱</center>
  ## ĐÂY LÀ NỘI DUNG KHÓA HỌC NẾU BẠN VẪN GẶP NHỮNG KHÓ KHĂN SAU QUÁ TRÌNH TỰ HỌC
 I. 🍁Nội Dung khóa học
