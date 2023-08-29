@@ -22,6 +22,7 @@ I. 🍁Nội Dung khóa học
 - [[I. 🍁Nội Dung khóa học/🌟1.1 Danh sách bài học  Obsidian Cơ Bản\|🌟1.1 Danh sách bài học  Obsidian Cơ Bản]]
 - [[I. 🍁Nội Dung khóa học/🌟1.2 Danh sách bài học Obsidian nâng cao\|🌟1.2 Danh sách bài học Obsidian nâng cao]]
 - [[I. 🍁Nội Dung khóa học/🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|🌟1.3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
+- [[I. 🍁Nội Dung khóa học/🌟1.4 Đồng bộ điện thoại và máy tính bằng remotely save plugin\|🌟1.4 Đồng bộ điện thoại và máy tính bằng remotely save plugin]]
 - [[I. 🍁Nội Dung khóa học/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
 
 { .block-language-dataview}
