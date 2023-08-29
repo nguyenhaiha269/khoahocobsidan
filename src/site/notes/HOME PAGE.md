@@ -32,7 +32,6 @@ I. 🍁Nội Dung khóa học
  
 ### II.🌱Các Video và bài giảng Chia sẻ
 
-- [[II.🌱Các Video và bài giảng Chia sẻ/💎Hướng dẫn xem mindmap của notes\|💎Hướng dẫn xem mindmap của notes]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Bài Tags\|Bài Tags]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/Bạn muốn theo dõi hành trình viết của mình không\|Bạn muốn theo dõi hành trình viết của mình không]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Bật chế độ hiện thị YAMl trên file\|Bật chế độ hiện thị YAMl trên file]]
@@ -51,6 +50,7 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác\|Hướng dẫn dùng Pandoc để xuất bản note sang word,epub và các định dạng khác]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Hướng dẫn dùng YAML\|Hướng dẫn dùng YAML]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/Hướng dẫn xem mindmap của notes\|Hướng dẫn xem mindmap của notes]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Hướng dẫn xuất bản pdf thành file markdown\|Hướng dẫn xuất bản pdf thành file markdown]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Làm quen các thanh công cụ\|Làm quen các thanh công cụ]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Link download phần mềm\|Link download phần mềm]]
