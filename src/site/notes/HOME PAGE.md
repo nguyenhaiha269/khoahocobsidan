@@ -23,6 +23,7 @@ I. 🍁Nội Dung khóa học
 - [[I. 🍁Nội Dung khóa học/🌟1.4 Đồng bộ điện thoại và máy tính bằng remotely save plugin\|🌟1.4 Đồng bộ điện thoại và máy tính bằng remotely save plugin]]
 - [[I. 🍁Nội Dung khóa học/🌟1.5 Feedback của học viên\|🌟1.5 Feedback của học viên]]
 - [[I. 🍁Nội Dung khóa học/🌟Học tiếng Anh trong Obsidian\|🌟Học tiếng Anh trong Obsidian]]
+- [[I. 🍁Nội Dung khóa học/AnkiBridge\|AnkiBridge]]
 
 { .block-language-dataview}
 <center><div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div></center>
