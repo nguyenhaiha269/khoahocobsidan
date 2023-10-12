@@ -71,6 +71,7 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Tạo các Workspace\|Tạo các Workspace]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Tạo một list mà tên có chứa một từ hoặc cụm từ trong tiêu đề\|Tạo một list mà tên có chứa một từ hoặc cụm từ trong tiêu đề]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Tạo một list từ một FOLDER HOẶC SUBFOLDER\|Tạo một list từ một FOLDER HOẶC SUBFOLDER]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Tìm kiếm những từ khóa có liên quan tới nhau trong các notes\|Tìm kiếm những từ khóa có liên quan tới nhau trong các notes]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Tray Plugin\|Tray Plugin]]
 
 { .block-language-dataview}
