@@ -46,6 +46,7 @@ I. 🍁Nội Dung khóa học
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Chỉnh sửa Thanh Ribbon\|Chỉnh sửa Thanh Ribbon]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Dataview dạng bảng với các header của cột\|Dataview dạng bảng với các header của cột]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Đồng bộ giữa các máy tính và điện thoại Androi như thế nào\|Đồng bộ giữa các máy tính và điện thoại Androi như thế nào]]
+- [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/HIỆN THỊ NOTE Ở DẠNG CORNELL\|HIỆN THỊ NOTE Ở DẠNG CORNELL]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Học từ vựng bằng Space Repetition\|Học từ vựng bằng Space Repetition]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.1 Plugin/Home tab Plugin\|Home tab Plugin]]
 - [[II.🌱Các Video và bài giảng Chia sẻ/II.2 Khác/Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian\|Hướng dẫn chia sẽ file và lấy file được chia sẻ ở Obsidian]]
