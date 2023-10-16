@@ -24,8 +24,7 @@ Bước 2- Trong Obsidian vào mục setting- Appearance- Chọn snippets chọn
 
   
 
-Bước 3 : copy file CSS ở bước 1 vào folder bên trên
-
+Bước 3 : Copy file CSS ở bước 1 vào folder snippets ở bước 2
   
 
 Bước 4 : Refesh lại foder - nút số 1 - bật nút số 2 ở hình dưới
