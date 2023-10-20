@@ -32,7 +32,7 @@ Copy nguyên mẫu sau vào một note nào đó, và thay tên-folder của b�
 #### Cách của đồng đội gợi ý
 ![](https://i.imgur.com/wEiDzuN.png)
 
-#### Cách của hà cho nó dễ hơn chút xíu thui chứ cũng thế mà, cám ơn đồng đội nha.
+#### Cách của Hà cho nó dễ hơn chút xíu thui chứ cũng thế mà, cám ơn đồng đội nha.
 ![](https://i.imgur.com/J4a80Gn.png)
 
 
