@@ -82,6 +82,7 @@ I. 🍁Nội Dung khóa học
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Học tiếng anh trong obsidian\|❓Học tiếng anh trong obsidian]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lỗi font khi dùng Excalidraw\|❓Lỗi font khi dùng Excalidraw]]
 - [[III. 🍀Các Câu hỏi của mọi người để tham khảo/❓Lưu trữ trên Obsidian khác gì với Notion\|❓Lưu trữ trên Obsidian khác gì với Notion]]
+- [[III. 🍀Các Câu hỏi của mọi người để tham khảo/Sắp xếp các note theo ngày trong một folder như thế nào\|Sắp xếp các note theo ngày trong một folder như thế nào]]
 
 { .block-language-dataview}
 
