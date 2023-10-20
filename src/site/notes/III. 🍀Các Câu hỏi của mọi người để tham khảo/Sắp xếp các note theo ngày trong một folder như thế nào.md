@@ -6,6 +6,7 @@
 ![](https://i.imgur.com/KaI4HsK.png)
 
 ## Comment của các đồng đội
+![](https://i.imgur.com/cwzBEYv.png)
 
 ![](https://i.imgur.com/97lQfxT.png)
 
