@@ -21,15 +21,10 @@ Copy nguyên mẫu sau vào một note nào đó, và thay tên-folder của b�
 #### Liệt kê danh sách trong 1 folder cụ thể
 ![](https://i.imgur.com/7WOLFq0.png)
 
-```
-
-
-{ .block-language-dataview}
 
 #### Liệt kê danh sách trong 1 folder và sắp xếp theo thời gian tạo note
 
 ![](https://i.imgur.com/A2tij8F.png)
-
 
 
 
