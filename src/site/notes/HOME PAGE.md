@@ -29,20 +29,4 @@ I. 🍁Nội Dung khóa học
 <center><div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div></center>
 <br>
 
- ### BẠN LÀ NGƯỜI ĐANG TỰ HỌC VỀ OBSIDIAN CÓ THỂ TÌM KIẾM THÔNG TIN HỮU TÍCH Ở NGAY DƯỚI ĐÂY
- 
-### II.🌱Các Video và bài giảng Chia sẻ
-
-
-{ .block-language-dataview}
-### III. 🍀Các Câu hỏi của mọi người để tham khảo
-
-
-{ .block-language-dataview}
-
-### IV.🥬Các ý tưởng và nguồn tham khảo
-
-
-{ .block-language-dataview}
-
 
