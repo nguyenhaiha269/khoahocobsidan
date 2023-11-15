@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Dg-pinned":true,"Dg-note-icon":2,"Dg-home":true,"permalink":"/nguyen-hai-ha/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"Dg-pinned":true,"Dg-home":true,"Dg-note-icon":2,"permalink":"/nguyen-hai-ha/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
 ---
 
 ## Lời mở đầu
