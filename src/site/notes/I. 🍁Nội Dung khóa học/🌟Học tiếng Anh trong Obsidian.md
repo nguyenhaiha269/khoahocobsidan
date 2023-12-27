@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-noi-dung-khoa-hoc/hoc-tieng-anh-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/i-noi-dung-khoa-hoc/hoc-tieng-anh-trong-obsidian/","noteIcon":""}
 ---
 
 
