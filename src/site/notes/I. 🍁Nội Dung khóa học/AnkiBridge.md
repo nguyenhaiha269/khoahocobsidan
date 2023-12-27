@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-noi-dung-khoa-hoc/anki-bridge/","noteIcon":""}
+{"dg-publish":true,"permalink":"/i-noi-dung-khoa-hoc/anki-bridge/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 #   AnkiBridge
