@@ -34,7 +34,7 @@ Liên hệ:
 
 | File                                                                                                          | TAGS                                                                              |
 | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [[Mở Rộng và Các Ứng Dụng thực tế/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]] | <ul><li>#dataview</li><li>#filter</li><li>#obsidian2Share</li><li>#tag1</li></ul> |
-| [[Mở Rộng và Các Ứng Dụng thực tế/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]         | <ul><li>#Obsidian</li><li>#mindmap</li></ul>                                      |
+| [[Mở rộng và các ứng dụng thực tế/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]] | <ul><li>#dataview</li><li>#filter</li><li>#obsidian2Share</li><li>#tag1</li></ul> |
+| [[Mở rộng và các ứng dụng thực tế/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]         | <ul><li>#Obsidian</li><li>#mindmap</li></ul>                                      |
 
 { .block-language-dataview}
