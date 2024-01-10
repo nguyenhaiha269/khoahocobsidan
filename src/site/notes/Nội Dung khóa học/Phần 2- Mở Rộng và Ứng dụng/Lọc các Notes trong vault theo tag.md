@@ -4,7 +4,8 @@
 
 
 #dataview #filter #obsidian2Share 
-![](https://i.imgur.com/T8AxtSx.png)
+
+![[Lọc Notes trong vaut theo tag.html]]
 ## Giả sử bạn muốn lọc các note trong tài liệu có tag là #tag1 thì làm như thế nào?
 
 Bạn gõ cấu trúc như sau
