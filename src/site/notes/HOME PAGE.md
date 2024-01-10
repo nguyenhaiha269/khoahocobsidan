@@ -31,10 +31,3 @@ Liên hệ:
 <center><div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div></center>
 <br>
 
-
-## Mở Rộng và các Ứng Dụng
-
-| File | TAGS |
-| ---- | ---- |
-
-{ .block-language-dataview}
