@@ -4,19 +4,20 @@
 
 
 #dataview #filter #obsidian2Share 
-
-# Giả sử bạn muốn lọc các note trong tài liệu có ký hiệu là #tag1 thì làm như thế nào?
+![](https://i.imgur.com/T8AxtSx.png)
+## Giả sử bạn muốn lọc các note trong tài liệu có tag là #tag1 thì làm như thế nào?
 
 Bạn gõ cấu trúc như sau
- >[!note]
-> Có thể thay table bằng **list** Các bạn thử xem nhé.
+
 ```
-| File |
-| ---- |
+| File                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag.md\|Lọc các Notes trong vault theo tag]] |
 
 { .block-language-dataview}
-
+**hoặc**
 ```
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]]
 
 { .block-language-dataview}
 
@@ -26,8 +27,8 @@ Bạn gõ cấu trúc như sau
 ```
 
 { .block-language-dataview}
-## Nếu có tag này hoặc tag kia thì sao nhỉ
+## Nếu có tag1  ==hoặc== tag2 kia thì sao nhỉ
 
 ```dataview
 list
-from #tip1 or #tip2
+from #tag1 or #tag2
