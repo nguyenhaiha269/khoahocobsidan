@@ -5,31 +5,22 @@
 
 #dataview #filter #obsidian2Share 
 
-![[Lọc Notes trong vaut theo tag.html]]
+
 ## Giả sử bạn muốn lọc các note trong tài liệu có tag là #tag1 thì làm như thế nào?
 
 Bạn gõ cấu trúc như sau
+![](https://i.imgur.com/ekORw0R.png)
 
-```
-| File                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------- |
-| [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag.md\|Lọc các Notes trong vault theo tag]] |
 
-{ .block-language-dataview}
 **hoặc**
-```
-- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]]
+![](https://i.imgur.com/TxTOszm.png)
 
-{ .block-language-dataview}
 
 ## Nếu kết hợp 2 tag thì sao nhỉ
+![](https://i.imgur.com/BwYcScm.png)
 
 
-```
-
-{ .block-language-dataview}
 ## Nếu có tag1  ==hoặc== tag2 kia thì sao nhỉ
+![](https://i.imgur.com/Wf8kF00.png)
 
-```dataview
-list
-from #tag1 or #tag2
+
