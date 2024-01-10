@@ -15,14 +15,16 @@ Liên hệ:
 
 ## Nội Dung khóa học
 
-- [[Nội Dung khóa học/1 Danh sách bài học  Obsidian Cơ Bản\|1 Danh sách bài học  Obsidian Cơ Bản]]
-- [[Nội Dung khóa học/2 Danh sách bài học Obsidian nâng cao\|2 Danh sách bài học Obsidian nâng cao]]
-- [[Nội Dung khóa học/3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
-- [[Nội Dung khóa học/4 Đồng bộ điện thoại và máy tính bằng remotely save plugin\|4 Đồng bộ điện thoại và máy tính bằng remotely save plugin]]
-- [[Nội Dung khóa học/5 Feedback của học viên\|5 Feedback của học viên]]
-- [[Nội Dung khóa học/6 Học tiếng Anh trong Obsidian\|6 Học tiếng Anh trong Obsidian]]
-- [[Nội Dung khóa học/6. Hướng dẫn Đăng ký tài khoản publish obsidian\|6. Hướng dẫn Đăng ký tài khoản publish obsidian]]
-- [[Nội Dung khóa học/7. Quản lý dự án và folder trong OBSIDIAN\|7. Quản lý dự án và folder trong OBSIDIAN]]
+- [[Nội Dung khóa học/Phần 1- Danh Sách bài học/1 Danh sách bài học  Obsidian Cơ Bản\|1 Danh sách bài học  Obsidian Cơ Bản]]
+- [[Nội Dung khóa học/Phần 1- Danh Sách bài học/2 Danh sách bài học Obsidian nâng cao\|2 Danh sách bài học Obsidian nâng cao]]
+- [[Nội Dung khóa học/Phần 1- Danh Sách bài học/3 Hướng dẫn xây dựng website trực tiếp từ Obsidian\|3 Hướng dẫn xây dựng website trực tiếp từ Obsidian]]
+- [[Nội Dung khóa học/Phần 1- Danh Sách bài học/4 Đồng bộ điện thoại và máy tính bằng remotely save plugin\|4 Đồng bộ điện thoại và máy tính bằng remotely save plugin]]
+- [[Nội Dung khóa học/Phần 1- Danh Sách bài học/5 Feedback của học viên\|5 Feedback của học viên]]
+- [[Nội Dung khóa học/Phần 1- Danh Sách bài học/6. Quản lý dự án và folder trong OBSIDIAN\|6. Quản lý dự án và folder trong OBSIDIAN]]
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Học tiếng Anh trong Obsidian\|Học tiếng Anh trong Obsidian]]
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Hướng dẫn Đăng ký tài khoản publish obsidian\|Hướng dẫn Đăng ký tài khoản publish obsidian]]
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]]
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]
 
 { .block-language-dataview}
 
