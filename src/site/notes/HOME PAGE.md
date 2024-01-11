@@ -23,7 +23,9 @@ Liên hệ:
 - [[Nội Dung khóa học/Phần 1- Danh Sách bài học/6. Quản lý dự án và folder trong OBSIDIAN\|6. Quản lý dự án và folder trong OBSIDIAN]]
 - [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Học tiếng Anh trong Obsidian\|Học tiếng Anh trong Obsidian]]
 - [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Hướng dẫn Đăng ký tài khoản publish obsidian\|Hướng dẫn Đăng ký tài khoản publish obsidian]]
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Hướng dẫn vừa xem youtube vừa take note\|Hướng dẫn vừa xem youtube vừa take note]]
 - [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]]
+- [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/PHÍM TẮT - HOTKEY\|PHÍM TẮT - HOTKEY]]
 - [[Nội Dung khóa học/Phần 1- Danh Sách bài học/1.1 BẮT ĐẦU TỪ ĐÂY/START HERE\|START HERE]]
 - [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]
 
