@@ -7,5 +7,10 @@
 ```
 
 ```ad-info
-## Cùng xem Video này để thực hiện take note video youtube trong OBSIDIAN NHÉ 
+## [Cùng xem Video này để thực hiện take note video youtube trong OBSIDIAN NHÉ ]()
 ```
+
+
+
+![](https://i.imgur.com/USJyFN3.png)
+
