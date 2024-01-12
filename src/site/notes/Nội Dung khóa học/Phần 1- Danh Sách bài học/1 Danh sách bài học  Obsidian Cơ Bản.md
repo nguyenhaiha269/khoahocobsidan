@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/1-danh-sach-bai-hoc-obsidian-co-ban/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8MHx8fDE3MDUwMjU3MjR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/1-danh-sach-bai-hoc-obsidian-co-ban/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
-### [[KHOAHOCOBSIDIAN.COM/HOME PAGE\|👈 QUAY LẠI]]
+
+### [[HOME PAGE\|👈 QUAY LẠI]]
 
 
 ##  [Hướng dẫn xem bài và trả bài trên website và facebook group](https://www.facebook.com/groups/219067851029823/posts/250028617933746/)
