@@ -29,7 +29,7 @@ Liên hệ:
 | ![\|250x150](\-)                              | [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Lọc các Notes trong vault theo tag\|Lọc các Notes trong vault theo tag]]                                               |
 | ![\|250x150](\-)                              | [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/PHÍM TẮT - HOTKEY\|PHÍM TẮT - HOTKEY]]                                                                                 |
 | ![\|250x150](\-)                              | [[Nội Dung khóa học/Phần 1- Danh Sách bài học/1.1 BẮT ĐẦU TỪ ĐÂY/START HERE\|START HERE]]                                                                              |
-| ![\|250x150](\-)                              | [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]                                                       |
+| ![\|250x150](https://i.imgur.com/5IUb938.png) | [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]                                                       |
 
 { .block-language-dataview}
 
