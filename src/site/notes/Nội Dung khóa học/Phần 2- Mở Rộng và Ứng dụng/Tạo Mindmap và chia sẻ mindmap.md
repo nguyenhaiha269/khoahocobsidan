@@ -5,7 +5,7 @@
 #Obsidian #mindmap
 
 # [[HOME PAGE\|QUAY LẠI 👈]] 
-## ỨNG DUNG
+## ỨNG DỤNG
 - Có thể chia sẻ cho mọi người
 - Dễ dàng mở ở máy tính khác
 --> Dùng để tóm tắt notes, khóa học hoặc thuyết trình, tóm tắt sách
@@ -14,3 +14,5 @@
 ![](https://i.imgur.com/5IUb938.png)
 
 
+## NGOÀI RA CÓ THỂ XEM LẠI CÁCH ĐỂ TẠO VÀ XEM MINDMAP NGAY TRONG MỘT NOTE Ở ĐÂY.
+### [Hướng dẫn xem mindmap của notes](https://www.facebook.com/groups/219067851029823/posts/250546011215340/)
