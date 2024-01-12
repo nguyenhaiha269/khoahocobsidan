@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/loc-cac-notes-trong-vault-theo-tag/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-
+#dataview #filter 
 ## Giả sử bạn muốn lọc các note trong tài liệu có tag là #tag1 thì làm như thế nào?
 
 Bạn gõ cấu trúc như sau
