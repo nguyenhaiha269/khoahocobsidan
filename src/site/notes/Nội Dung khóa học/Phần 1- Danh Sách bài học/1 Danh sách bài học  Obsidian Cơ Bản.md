@@ -39,7 +39,7 @@
 ## [⭐Cách thay icon banner siêu nhanh bằng 1 click](https://www.facebook.com/groups/219067851029823/posts/237559419180666/)
 - [ ]  Sử dụng Plugin Image Inserter để chèn nhanh một ảnh làm banner
 - [ ] Sử dụng Plugin Commander để tạo một shortcut để chèn nhanh ảnh, banner vào note
- XEM THÊM Ở ĐÂY [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/THÊM ICON VÀO NOTE VỚI 1 CLICK\|THÊM ICON VÀO NOTE VỚI 1 CLICK]]
+ XEM THÊM Ở ĐÂY [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Thêm icon với 1 click\|Thêm icon với 1 click]]
 ## [ Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 ---
 ## [ Bài 4: Định dạng cho một note trong Obsidian](https://www.facebook.com/groups/219067851029823/search/?q=b%C3%A0i%205)
