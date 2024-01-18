@@ -7,4 +7,9 @@
 
 Có rất nhiều cách để đồng bộ giữa điện thoại và máy tính.
 Hiện tại cách  này mình thấy ổn hơn cả.
-<iframe width="660" height="515" src="https://www.youtube.com/embed/2KUde2flhag?si=ruZIOy71th8wcbV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# [Link video](https://www.facebook.com/groups/219067851029823/posts/335612706042003/)
+
+
+![](https://i.imgur.com/S19l7w9.png)
+
+
