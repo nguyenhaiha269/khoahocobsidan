@@ -17,11 +17,18 @@
 
 ### 💎 [Tạo bảng và sử dụng bảng trong Obsidian](https://www.facebook.com/groups/219067851029823/posts/231771149759493/)
 
+---
+# DATAVIEW
+
 ### 💎[Sử dụng Dataview dạng Task](https://www.facebook.com/groups/219067851029823/posts/238619882407953/)
+
+### 💎 [Lọc các notes trong một vau có gắn một hoặc nhiều tag .](https://www.facebook.com/groups/219067851029823/posts/330941686509105)
 
 ### 💎 [Sử dụng Dataview dạng list]
 
 ### 💎 [Sử dụng Dataview dạng Table]
+---
+
 
 ### 💎 [Plugin Open gate thêm website vào cửa sổ làm việc và Plugin Focus Mode](https://www.facebook.com/groups/219067851029823/posts/236522149284393)
 
