@@ -47,7 +47,8 @@
 # MINDMAP
 ## [Mở mindmap của một note ](https://www.facebook.com/groups/219067851029823/posts/250546011215340)
 ## [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]
-## 
+## [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Xmind và Obsidian\|Xmind và Obsidian]]
+---
 
 ## [ Học về Liên kết và các Attachments](https://www.facebook.com/groups/219067851029823/posts/223963793873562)
 - [ ]  Tạo một liên kết nội bố đến các trang trong obsidian
