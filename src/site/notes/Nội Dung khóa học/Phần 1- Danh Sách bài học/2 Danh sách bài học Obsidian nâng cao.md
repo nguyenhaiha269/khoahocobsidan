@@ -7,8 +7,6 @@
 
 ## [[KHOAHOCOBSIDIAN.COM/HOME PAGE\|👈 QUAY LẠI]]
 
-## Phần 1.2.1  [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Học tiếng Anh trong Obsidian\|Học tiếng Anh trong Obsidian]]
-
 ### 💎 [Hướng dẫn xem mindmap của notes](https://www.facebook.com/groups/219067851029823/posts/250546011215340/)
 
 ### 💎 [Hướng dẫn dùng plugin Quickadd-nâng cao của template](https://www.facebook.com/groups/219067851029823/posts/251081967828411/)
@@ -25,7 +23,7 @@
 
 ### 💎 [Sử dụng Dataview dạng Table]
 
-### 💎 [Thêm website và chế độ làm việc tập trung](https://www.facebook.com/groups/219067851029823/posts/236522149284393)
+### 💎 [Plugin Open gate thêm website vào cửa sổ làm việc và Plugin Focus Mode](https://www.facebook.com/groups/219067851029823/posts/236522149284393)
 
 ### 💎 [Hướng dẫn tô màu text](https://www.facebook.com/groups/219067851029823/posts/227707163499225/)
 
