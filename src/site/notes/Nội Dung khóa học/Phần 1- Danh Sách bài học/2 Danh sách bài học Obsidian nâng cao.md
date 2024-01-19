@@ -5,7 +5,6 @@
 
 # [[HOME PAGE\|Quay Lại👈]]
 
-## [[KHOAHOCOBSIDIAN.COM/HOME PAGE\|👈 QUAY LẠI]]
 
 ### 💎 [Hướng dẫn xem mindmap của notes](https://www.facebook.com/groups/219067851029823/posts/250546011215340/)
 
