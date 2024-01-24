@@ -20,3 +20,7 @@
 Tập trung vào kiến thức, hình ảnh không được bắt mắt bằng các nền tảng làm web chuyên dụng.
 
 <iframe width="800" height="500" src="https://www.youtube.com/embed/bmsqJ9_r1uo?si=1cm6myiqV3C0Zn2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## [[Bước 2- Tạo một tài khoản Github\|Bước 2- Tạo một tài khoản Github]]
+Bước 2.1 : Copy 
