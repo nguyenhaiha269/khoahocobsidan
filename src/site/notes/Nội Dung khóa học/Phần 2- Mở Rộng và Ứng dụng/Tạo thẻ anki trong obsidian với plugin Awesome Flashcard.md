@@ -5,6 +5,7 @@
  #anki 
 # [[HOME PAGE\|Quay Lại👈]]
 
+❓
 ```ad-info
 Ứng dụng #OBSIDINAN và #ANKIđể học một kiến thức mới?
 Mình đang tự học python. Kiến thức hoàn toàn mới, nên mình dùng obsidian để take note.
@@ -22,5 +23,12 @@ Mình không biết dùng code, nên hiện mình dùng plugin "Awesome Flashcar
 
 ## **Bước 3 : nhấn xuất bản sang anki và học thôi.**
 
-Đây là sản phẩm trên anki- Đúng là cái khó lại ló CÁI KHÔN.
+
+
+
+### Đây là sản phẩm trên anki- Đúng là cái khó lại ló CÁI KHÔN.
+####  Đây là ví dụ ở trên obsidian:
+![](https://i.imgur.com/QCIFSKa.png)
+ #### Còn đây là thẻ được tạo ra trên anki nè. 😍😍😍😍
+
 ![](https://i.imgur.com/8ivthDb.png)
