@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/tao-the-anki-trong-obsidian-voi-plugin-awesome-flashcard/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
- 
+ #anki 
 # [[HOME PAGE\|Quay Lại👈]]
 
 
