@@ -19,7 +19,7 @@
 
 ## [Hướng dẫn làm việc giữa nhiều máy tính](https://www.facebook.com/groups/219067851029823/posts/220015034268438/)
 
-## [Bài 3-Bắt đầu với những khái niệm ban đầu](https://www.facebook.com/groups/219067851029823/posts/221994450737163/)
+## [Bắt đầu với những khái niệm ban đầu](https://www.facebook.com/groups/219067851029823/posts/221994450737163/)
 - [ ] Thay đổi themes
 - [ ] Tạo một Folder mới
 - [ ] Tạo một note mới
