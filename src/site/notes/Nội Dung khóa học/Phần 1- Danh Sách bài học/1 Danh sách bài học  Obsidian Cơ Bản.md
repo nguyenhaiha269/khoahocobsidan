@@ -45,13 +45,15 @@
 - [ ]  Tạo một danh sách việc phải làm - todo list
 - [ ] Thêm icon vào các tiêu đề
 - [ ] Cách tạo callout, Question, hint...
-- 
+
 # MINDMAP
 ## [Mở mindmap của một note ](https://www.facebook.com/groups/219067851029823/posts/250546011215340)
-## [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]
-## [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Xmind và Obsidian\|Xmind và Obsidian]]
----
 
+<span style="background:#40a9ff">Mở rộng thêm phần này, Quay lại học sau đễ đỡ tốn thời gian</span>
+### [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Tạo Mindmap và chia sẻ mindmap\|Tạo Mindmap và chia sẻ mindmap]]
+### [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Xmind và Obsidian\|Xmind và Obsidian]]
+
+---
 ## [ Học về Liên kết và các Attachments](https://www.facebook.com/groups/219067851029823/posts/223963793873562)
 - [ ]  Tạo một liên kết nội bố đến các trang trong obsidian
 - [ ] Tạo một liên kết tới website
