@@ -6,7 +6,7 @@
 
 ### [[HOME PAGE\|👈 QUAY LẠI]]
 
-##  [Hướng dẫn xem bài và trả bài trên website và facebook group](https://www.facebook.com/groups/219067851029823/posts/250028617933746/)
+##  [Hướng dẫn xem bài và trả bài trên website và facebook group](https://www.youtube.com/watch?v=ULiLb4jYfgk)
 
 ## [Hướng dẫn cài đặt Obsidian trên Window or Mac](https://www.facebook.com/groups/219067851029823/posts/220012227602052/)
 
