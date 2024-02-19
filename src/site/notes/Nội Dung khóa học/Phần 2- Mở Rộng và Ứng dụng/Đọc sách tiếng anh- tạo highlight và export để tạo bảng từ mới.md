@@ -1,5 +1,5 @@
 ---
-{"enhance":null,"mindmap-plugin":"basic","annn":null,"dg-publish":true,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/doc-sach-tieng-anh-tao-highlight-va-export-de-tao-bang-tu-moi/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"enhance":null,"mindmap-plugin":"basic","annn":null,"dg-publish":true,"image":"https://i.imgur.com/MDbxSzA.png","permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/doc-sach-tieng-anh-tao-highlight-va-export-de-tao-bang-tu-moi/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 # Đọc sách tiếng anh- tạo highlight và export để tạo bảng từ mới
@@ -13,4 +13,5 @@
 
 
 
+![]()
 
