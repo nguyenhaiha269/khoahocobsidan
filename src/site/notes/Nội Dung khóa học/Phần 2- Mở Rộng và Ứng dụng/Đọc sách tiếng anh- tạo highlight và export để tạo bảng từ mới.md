@@ -13,5 +13,7 @@
 
 
 
-![]()
+## Mở Rộng có thể chuyển pdf thành markdown và thực hiện highlight text và export sang googlesheet để tạo bảng từ mới
+
+### [Xem Video tại đây](https://www.facebook.com/groups/219067851029823/posts/357718997164707/)
 
