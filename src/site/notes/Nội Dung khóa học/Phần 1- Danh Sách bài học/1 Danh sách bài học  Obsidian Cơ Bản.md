@@ -100,4 +100,8 @@ Canvas là một main core plugin mình rất thích, có thể làm được r�
 ## [Chữa bài  Một số khó khăn](https://www.facebook.com/groups/219067851029823/posts/231620186441256/)
 ---
 ## [Một số Tip_1](https://www.facebook.com/groups/219067851029823/posts/239179162352025/)
+
 ---
+
+# ⭐ BỔ XUNG QUAN TRỌNG
+## [Làm việc với các Workspace]()
