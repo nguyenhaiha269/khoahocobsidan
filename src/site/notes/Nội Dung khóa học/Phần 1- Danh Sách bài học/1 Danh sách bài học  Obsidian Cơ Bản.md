@@ -2,7 +2,7 @@
 {"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8MHx8fDE3MDUwMjU3MjR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/1-danh-sach-bai-hoc-obsidian-co-ban/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-
+<center><div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div></center>
 
 ### [[HOME PAGE\|👈 QUAY LẠI]]
 
@@ -40,7 +40,8 @@
  [[Nội Dung khóa học/Phần 2- Mở Rộng và Ứng dụng/Thêm icon với 1 click\|Thêm icon với 1 click]]. 
 ## [ Làm đẹp trang Homepage với admotion plugin](https://www.facebook.com/groups/219067851029823/posts/231277006475574/)
 ---
-## [ Bài 4: Định dạng cho một note trong Obsidian](https://www.facebook.com/groups/219067851029823/search/?q=b%C3%A0i%205)
+## [ Bài 4: Định dạng cho một note trong Obsidian](https://www.facebook.com/groups/219067851029823/posts/223308107272464/)
+
 - [ ] Cách định dạng cho một note ( gồm có: tiêu đề, in đậm, in nghiêng, tô màu..)
 - [ ]  Tạo một danh sách việc phải làm - todo list
 - [ ] Thêm icon vào các tiêu đề
