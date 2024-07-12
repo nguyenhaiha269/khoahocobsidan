@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/noi-dung-khoa-hoc/phan-3-xay-dung-web-tu-obsidian/buoc-1-khoi-dong-hay-tra-loi-cau-hoi-tai-sao-ban-can-mot-website/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:32.569+07:00","updated":"2024-01-23T05:17:47.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/noi-dung-khoa-hoc/phan-3-xay-dung-web-tu-obsidian/buoc-1-khoi-dong-hay-tra-loi-cau-hoi-tai-sao-ban-can-mot-website/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:48.609+07:00","updated":"2024-01-23T05:17:47.000+07:00"}
 ---
 
  
