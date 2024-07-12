@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8d2Vic2l0ZSUyMGJ1aWR8ZW58MHwwfHx8MTcwNTAyNjE4MXww&ixlib=rb-4.0.3&q=80&w=1080","image_y":0.5,"permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/3-huong-dan-xay-dung-website-truc-tiep-tu-obsidian/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwzMHx8d2Vic2l0ZSUyMGJ1aWR8ZW58MHwwfHx8MTcwNTAyNjE4MXww&ixlib=rb-4.0.3&q=80&w=1080","image_y":0.5,"permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/3-huong-dan-xay-dung-website-truc-tiep-tu-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.157+07:00","updated":"2024-01-12T13:03:22.000+07:00"}
 ---
 
  # [[HOME PAGE\|Quay Lại👈]]
