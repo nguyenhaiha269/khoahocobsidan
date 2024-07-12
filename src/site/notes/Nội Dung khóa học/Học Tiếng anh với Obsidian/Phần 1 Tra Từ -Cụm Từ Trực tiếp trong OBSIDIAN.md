@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T12:00:41.627+07:00","updated":"2024-07-12T17:38:02.264+07:00"}
+{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T23:16:46.577+07:00","updated":"2024-07-12T17:38:02.000+07:00"}
 ---
 
 
