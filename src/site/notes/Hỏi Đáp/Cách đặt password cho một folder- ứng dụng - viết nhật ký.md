@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hoi-dap/cach-dat-password-cho-mot-folder-ung-dung-viet-nhat-ky/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"permalink":"/hoi-dap/cach-dat-password-cho-mot-folder-ung-dung-viet-nhat-ky/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:41.478+07:00","updated":"2023-11-22T09:44:40.000+07:00"}
 ---
 
 # Update
