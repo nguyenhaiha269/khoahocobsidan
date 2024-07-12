@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/photo-1525789095696-12919c3fac59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5N3x8dHJlZXxlbnwwfDB8fHwxNzA1MDM3ODQxfDA&ixlib=rb-4.0.3&q=80&w=1080","image_y":0.092,"permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/2-danh-sach-bai-hoc-obsidian-nang-cao/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/photo-1525789095696-12919c3fac59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHw5N3x8dHJlZXxlbnwwfDB8fHwxNzA1MDM3ODQxfDA&ixlib=rb-4.0.3&q=80&w=1080","image_y":0.092,"permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/2-danh-sach-bai-hoc-obsidian-nang-cao/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.198+07:00","updated":"2024-01-19T09:08:25.000+07:00"}
 ---
 
 
