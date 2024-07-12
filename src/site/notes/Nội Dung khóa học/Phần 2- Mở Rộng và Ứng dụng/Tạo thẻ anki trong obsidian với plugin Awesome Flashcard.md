@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/tao-the-anki-trong-obsidian-voi-plugin-awesome-flashcard/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":null,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/tao-the-anki-trong-obsidian-voi-plugin-awesome-flashcard/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:57:36.142+07:00","updated":"2024-01-31T17:51:20.000+07:00"}
 ---
 
  #anki 
