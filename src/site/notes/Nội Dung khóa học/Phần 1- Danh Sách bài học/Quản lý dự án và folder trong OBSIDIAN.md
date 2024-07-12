@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"image":"https://i.imgur.com/JusW9dm.png","permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/quan-ly-du-an-va-folder-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"image":"https://i.imgur.com/JusW9dm.png","permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/quan-ly-du-an-va-folder-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.092+07:00","updated":"2024-01-12T09:13:00.000+07:00"}
 ---
 
 
