@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/hoc-tieng-anh-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.058+07:00","updated":"2024-07-12T09:15:35.263+07:00"}
+{"dg-publish":true,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/hoc-tieng-anh-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:06.264+07:00","updated":"2024-07-12T09:15:35.000+07:00"}
 ---
 
 
