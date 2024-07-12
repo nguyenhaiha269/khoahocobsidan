@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8MHx8fDE3MDUwMjU3MjR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/1-danh-sach-bai-hoc-obsidian-co-ban/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.344+07:00","updated":"2024-07-12T09:23:15.054+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwxfHx0cmVlfGVufDB8MHx8fDE3MDUwMjU3MjR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/phan-1-danh-sach-bai-hoc/1-danh-sach-bai-hoc-obsidian-co-ban/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.344+07:00","updated":"2024-07-12T09:29:56.988+07:00"}
 ---
 
 <center><div style="display: flex; justify-content: center; cursor: pointer;"> <a href="https://forms.gle/vacXuNZZWXerFy6Q8" target="_blank"> <button style=" font-size: 20px; padding: 10px; height: fit-content; margin-top: 10px; background: var(--text-accent); font-weight: 200; color: var(--text-on-accent); "> ĐĂNG KÝ HỌC Ở ĐÂY</button> </a> </div></center>
@@ -12,7 +12,7 @@
 
 ## 💎[Cách chia sẻ file nhanh tới một mọi người trên obsidian_quickShare Plugin](https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk)
 
-- [Update ( sau một thời gian sử dụng chức năng chia sẻ thì mình có update 3 cách- bạn có thể xem thêm ở danh sách bài nâng cao tại đây)](https://www.facebook.com/groups/219067851029823/posts/262472686689339)
+### [Update ( sau một thời gian sử dụng chức năng chia sẻ thì mình có update 3 cách- bạn có thể xem thêm ở danh sách bài nâng cao tại đây)](https://www.facebook.com/groups/219067851029823/posts/262472686689339)
 
 ## 💎[Lấy file được chia sẻ hoặc lưu website về](https://www.youtube.com/watch?v=OG3ZutPNDb8) () -> video này cần phải được update ^^- nói hơi nhỏ và có tạp â)
 ## 💎[Link Download extention](https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4)
