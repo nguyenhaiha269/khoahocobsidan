@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T12:00:41.627+07:00","updated":"2024-07-12T16:48:05.736+07:00"}
+{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T12:00:41.627+07:00","updated":"2024-07-12T16:51:20.688+07:00"}
 ---
 
 
@@ -44,3 +44,27 @@ Cùng mình cài phím tắt nhé.
 
 Phần 2 là export Note từ Obsidian sang Anki.
 Video tác giả cũng làm cả rồi nè. ^^
+#### Một số Câu hỏi và lỗi của các bạn trong quá trình dùng:
+
+![](https://i.imgur.com/FzDUeJO.png)
+##### Copy đoạn sau vào phần template nhé.
+
+```---
+source: "{{Source}}"
+---
+START
+Vocab
+{{ID}}
+Term: {{Term}}
+Definition: {{Definition}}
+IPA: {{IPA}}
+Audio: {{Audio}}
+POS: {{Part_of_speech}}
+Example:
+- {{Example Audio 1}} {{Example 1}}
+- {{Example Audio 2}} {{Example 2}}
+- {{Example Audio 3}} {{Example 3}}
+
+END
+
+```
