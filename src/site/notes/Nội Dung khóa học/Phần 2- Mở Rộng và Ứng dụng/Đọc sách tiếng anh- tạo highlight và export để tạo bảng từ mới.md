@@ -1,5 +1,5 @@
 ---
-{"enhance":null,"mindmap-plugin":"basic","annn":null,"dg-publish":true,"image":"https://i.imgur.com/MDbxSzA.png","permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/doc-sach-tieng-anh-tao-highlight-va-export-de-tao-bang-tu-moi/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"enhance":null,"mindmap-plugin":"basic","annn":null,"dg-publish":true,"image":"https://i.imgur.com/MDbxSzA.png","permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/doc-sach-tieng-anh-tao-highlight-va-export-de-tao-bang-tu-moi/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:57:10.787+07:00","updated":"2024-02-22T21:22:26.000+07:00"}
 ---
 
 
