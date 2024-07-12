@@ -1,5 +1,5 @@
 ---
-{"tags":["obsidian2Share"],"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/hoi-dap/alias-la-gi/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"tags":["obsidian2Share"],"aliases":null,"author":null,"link":null,"dg-publish":true,"permalink":"/hoi-dap/alias-la-gi/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:41.487+07:00","updated":"2023-12-29T17:40:00.000+07:00"}
 ---
 
 ## Định nghĩa
