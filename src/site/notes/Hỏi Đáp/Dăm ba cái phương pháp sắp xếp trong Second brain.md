@@ -1,9 +1,11 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/hoi-dap/dam-ba-cai-phuong-phap-sap-xep-trong-second-brain/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"permalink":"/hoi-dap/dam-ba-cai-phuong-phap-sap-xep-trong-second-brain/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:41.459+07:00","updated":"2024-07-01T09:20:00.433+07:00"}
 ---
 
 #### **author :: [[Đỗ Thu Trang\|Đỗ Thu Trang]]
 url::  https://www.facebook.com/groups/594306492570157/search/?q=trang
+<!--ID: 1719800398447-->
+
  [[Homepage\|Quay Lại👈]]
 **
 
