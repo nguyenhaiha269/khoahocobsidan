@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T12:00:41.627+07:00","updated":"2024-07-12T16:51:20.688+07:00"}
+{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T12:00:41.627+07:00","updated":"2024-07-12T16:54:46.852+07:00"}
 ---
 
 
@@ -39,11 +39,9 @@ Cùng mình cài phím tắt nhé.
 ![](https://i.imgur.com/HmKpkGb.png)
 ![](https://i.imgur.com/T1ihxcq.png)
 ![](https://i.imgur.com/J22eGpP.png)
-#### Note: ngoài ra để tra từ nhanh thì còn có thể thêm icon vào tab bar 
-![](https://i.imgur.com/NDGu6cF.png)
 
 Phần 2 là export Note từ Obsidian sang Anki.
-Video tác giả cũng làm cả rồi nè. ^^
+Video tác giả cũng làm cả rồi nè. ^^ : xem ở đây https://github.com/Mrntn161/LLM-Dictionary-vn
 #### Một số Câu hỏi và lỗi của các bạn trong quá trình dùng:
 
 ![](https://i.imgur.com/FzDUeJO.png)
