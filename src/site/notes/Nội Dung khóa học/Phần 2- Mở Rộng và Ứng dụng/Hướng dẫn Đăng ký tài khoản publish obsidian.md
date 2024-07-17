@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"image":"https://i.imgur.com/wrFOLXL.png","permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/huong-dan-dang-ky-tai-khoan-publish-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:28:06.277+07:00","updated":"2024-01-12T12:39:21.000+07:00"}
+{"dg-publish":true,"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"image":"https://i.imgur.com/wrFOLXL.png","permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/huong-dan-dang-ky-tai-khoan-publish-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:44.069+07:00","updated":"2024-01-12T12:39:21.000+07:00"}
 ---
 
  
