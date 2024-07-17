@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://i.imgur.com/qbQoywd.png","image_y":0.532,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/loc-cac-notes-trong-vault-theo-tag/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-01-19T05:27:59.946+07:00","updated":"2024-01-18T13:10:44.000+07:00"}
+{"aliases":null,"tags":null,"Related":null,"date":null,"URL":null,"Author":null,"dg-publish":true,"image":"https://i.imgur.com/qbQoywd.png","image_y":0.532,"permalink":"/noi-dung-khoa-hoc/phan-2-mo-rong-va-ung-dung/loc-cac-notes-trong-vault-theo-tag/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-02-29T09:58:37.008+07:00","updated":"2024-01-18T13:10:44.000+07:00"}
 ---
 
  
