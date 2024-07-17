@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T23:16:46.577+07:00","updated":"2024-07-12T17:38:02.000+07:00"}
+{"quickshare-date":"2024-07-13 10:01:02","quickshare-url":"https://noteshare.space/note/clyjji8po019301mwa61yxs8r#O5rOH0yhIyZrG+bvOFS8JU+qzyuGcGY5lsKMD/oA8nE","dg-publish":true,"image":"https://images.unsplash.com/photo-1604391659919-0cb8c6bb0966?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNjAwOTd8MHwxfHNlYXJjaHwyMXx8Zmxvd2VyfGVufDB8MHx8fDE3MjA3NjU2NzR8MA&ixlib=rb-4.0.3&q=80&w=1080","permalink":"/noi-dung-khoa-hoc/hoc-tieng-anh-voi-obsidian/phan-1-tra-tu-cum-tu-truc-tiep-trong-obsidian/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-07-12T12:00:41.627+07:00","updated":"2024-07-17T09:29:09.204+07:00"}
 ---
 
 
@@ -22,10 +22,9 @@ Workflow : Obsidian là nơi chứa từ vựng, tài liệu học tập> xuất
  ## HƯỚNG DẪN CÀI ĐẶT VÀ SỬ DỤNG
 ### Bước 1-Cài đặt plugin
 - Plugin BRAT là để chạy các Plugin chưa có trên community plugin
--![](https://i.imgur.com/oeYFmUV.png)
+![](https://i.imgur.com/oeYFmUV.png)
 ![](https://i.imgur.com/PJN3ubt.png)
 ![](https://i.imgur.com/XueW28l.png)
-
 ![](https://i.imgur.com/w0FqydN.png)
 Đây là link github:  https://github.com/Mrntn161/LLM-Dictionary-vn
 ![](https://i.imgur.com/Op9x0yR.png)
@@ -53,7 +52,7 @@ Video tác giả cũng làm cả rồi nè. ^^ : xem ở đây https://github.co
 source: "{{Source}}"
 ---
 START
-Vocab
+LLM_DICTIONARY
 {{ID}}
 Term: {{Term}}
 Definition: {{Definition}}
@@ -64,7 +63,16 @@ Example:
 - {{Example Audio 1}} {{Example 1}}
 - {{Example Audio 2}} {{Example 2}}
 - {{Example Audio 3}} {{Example 3}}
+Image:
+Video:
+Tags:
 
 END
 
 ```
+### Kiểm tra các thông tin bên dưới, 10 người 11 người sai và thiếu 3 lỗi trên, nếu vẫn mắc lỗi sau khi loại trừ 3 lỗi này thì hãy hỏi mình tiếp nhen.
+![](https://i.imgur.com/3KLQOLV.png)
+
+Xem video ở đây:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mR8tNucgfw4?si=2L9MLxDLDuNGL_jY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
